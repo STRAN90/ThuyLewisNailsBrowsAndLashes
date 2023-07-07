@@ -1,39 +1,137 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome,
+# Thuy Lewis Nails Brows & Lashes
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## Project Overview 
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+**Thuy Lewis Nails Brows & Lashes**  B2C website showcasing an experienced beauty business located in Bridgend - South Wales. Thuy Lewis specialises in brows, lashes and creative nail designs using different techniques. 
 
-## Codeanywhere Reminders
+I have designed the website to look professional with a weeding colour scheme as it is the main focus of the business. It is designed to be fully responsive and accessible on a range of devices, making it easy to navigate for potential and existing customers.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+The goal of the website is to provide an up-to-date pictures portfolio (creative nail designs, brow and lash transformations), information about the services it delivers, and also allow an easy way for getting in touch with the business owner.
 
-`python3 -m http.server`
+The site must meet all the requirements and goals as potential visitors will most likely be comparing other similar local services, so the final website look must stand out and show everything the user would want to see.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+**Link to** [live site]
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+## User Experience
 
-`http_server`
+### Target Audience
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+- A person looking for a qualified and insured beauty technician. 
+- A person looking for someone who specialises in gel, acrylics, nail extentions and design. 
+- A person looking to have their lashes tinted or lifted.
+- A person looking to have their eyebrows waxed or tinted. 
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+#### First-time User 
+- As a first time user, I want to see short information about Thuy Lewis, and the services she provides.
+- As a first time user, I want to have an easy access to the all site's content by clicking the correct navigation link.
+- As a first time user, I want to see portfolio containing high quality pictures showcasing recent work on customers.
+- As a first time user, I want to know about customers reviews to learn about their experience, and make sure that provided services are of high quality and can be trusted. 
+- As a first time user, I want to have an easy access to the social media links such as Instagram, Facebook and E-Mail address.
+- As a first time user, I want to be able to find information about prices.
+- As a first time user, I want to be able to contact the business owner as I wish through social media, e-mail or a contact form.
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
 
-To log into the Heroku toolbelt CLI:
+#### Returning User
+- As a returning user, I want to be able to see updates of the owners work and any new products or services available.
+- As a returning user, I want to be able to contact the business owner.
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+#### Site Owner 
+- As the site owner, I want users to quickly know what Thuy Lewis Nails, Brows & Lashes is offering.
+- As the site owner, I want users to quickly access information that will give them an idea and informed services Thuy Lewis can provide. 
+- As the site owner, I want the users to be able to contact the business owner.
+- As the site owner I want the users to feel that the website is professional looking and will therefore offer a professional service.
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+### Responsive Web Design
 
----
+#### Website is fully responsive, with use of 4 breakpoints:
 
-Happy coding!
+- 375px - mobile size,
+- 768px - tablet size,
+- 1440px - desktop size,
+- 1950px - desktop large size.
+
+
+## Design
+
+### Design Choices
+
+The website design is developed so that it showcases the talent and services of Thuy Lewis.
+
+### Colour
+
+### Imagery
+
+Images provided by business owner Thuy Lewis.
+
+### Typography
+
+- [Google Fonts](https://fonts.google.com/)
+
+  - Used 'Great Vibes': "handwritten" font for the logo as it perfectly matches the artistic design of the website.
+
+- [Adobe Fonts](https://fonts.adobe.com/)
+  - Used 'Aileron' as a main font because its natural design brings the user clean reading.### Wireframe
+
+## Technologies
+
+### Languages
+
+- HTML
+- CSS
+
+### Tools
+
+- [Git](https://git-scm.com/)
+
+  - Version control tool for tracking changes in code.
+
+- [GitHub](https://github.com/)
+
+  - Hosting service for software development and version control using Git.
+
+- [FontAwesome](https://fontawesome.com/)
+
+  - Icon library and toolkit.
+
+- [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/)
+
+  - Used to audit the site for performance, quality, best practices and SEO.
+
+- [AmIResponsive](https://ui.dev/amiresponsive/)
+
+  - An online tool to check how responsive the website is on different devices. Screenshot generated by the tool is presented in about section of the README file.
+
+- [Markup Validation Service](https://validator.w3.org/)
+
+  - Validator checks the markup validity of Web documents in HTML, XHTML, SMIL, MathML, etc.
+
+- [CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+
+  - Online tool validates CSS files as CSS level 3 + SVG.
+
+
+## Testing
+
+Full testing process and results can be found [here](https://github.com.docs/TESTING.md).
+
+## Deployment
+
+For website deployment I have decided to go with [Gitpod](https://gitpod.io) because it provides fast website load speeds, simple configuration setup and very easy deployment process.
+
+- From the dashboard create new "Project",
+- Login with GitHub,
+- Import desired git repository,
+- Configure project,
+- Deploy.
+  Simple as that!
+
+After deployment your project is connected to the repository you have selected, and is automatically deployed every time when repository changes.
+
+## Credits
+
+### Acknowledgements
+
+- My mentor
+- Google search engine for limitless resources about web development.
