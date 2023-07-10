@@ -6,7 +6,7 @@
 
 **Thuy Lewis Nails Brows & Lashes**  B2C website showcasing an experienced beauty business located in Bridgend - South Wales. Thuy Lewis specialises in brows, lashes and creative nail designs using different techniques. 
 
-I have designed the website to look professional with a weeding colour scheme as it is the main focus of the business. It is designed to be fully responsive and accessible on a range of devices, making it easy to navigate for potential and existing customers.
+I have designed the website to look professional with a colour scheme as it is the main focus of the business. It is designed to be fully responsive and accessible on a range of devices, making it easy to navigate for potential and existing customers.
 
 The goal of the website is to provide an up-to-date pictures portfolio (creative nail designs, brow and lash transformations), information about the services it delivers, and also allow an easy way for getting in touch with the business owner.
 
