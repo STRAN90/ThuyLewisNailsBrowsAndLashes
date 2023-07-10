@@ -153,7 +153,7 @@ The website is comprised of four pages, each is accessible from the navigation m
   * Opening times. 
   * Form 
 
-*Future Implementations.
+### Future Implementations.
 
   *
   *
