@@ -26,9 +26,7 @@ The site must meet all the requirements and goals as potential visitors will mos
   * [Typography](#typography)
   * [Imagery](#imagery)
   * [Wireframes](#wireframes)
-
-* [Features](#features)
-  * [General Features on Each Page](#general-features-on-each-page)
+  * [Features](#features)
   * [Future Implementations](#future-implementations)
   * [Accessibility](#accessibility)
 
@@ -52,14 +50,16 @@ The site must meet all the requirements and goals as potential visitors will mos
 
 ---
 
-## User Experience
+## User Experience (UX)
 
-### Target Audience
+### User Stories
+
+#### Target Audience
 
 - A person looking for a qualified and insured beauty technician. 
 - A person looking for someone who specialises in gel, acrylics, nail extentions and design. 
 - A person looking to have their lashes tinted or lifted.
-- A person looking to have their eyebrows waxed or tinted. 
+- A person looking to have their eyebrows waxed or tinted.
 
 #### First-time Visitor Goals 
 - As a first time user, I want to see short information about Thuy Lewis, and the services she provides.
@@ -170,7 +170,7 @@ I have been mindful during coding to ensure the website is as accessable friendl
 
 ---
 
-## Technologies
+## Technologies Used
 
 ### Languages Used
 
@@ -202,6 +202,8 @@ Google Dev Tools - To troubleshoot and test features, solve issues with responsi
 
 ## Deployment & Local Development 
 
+### Deployment
+
 For website deployment I have decided to go with [Gitpod](https://gitpod.io) because it provides fast website load speeds, simple configuration setup and very easy deployment process.
 
 - From the dashboard create new "Project",
@@ -212,6 +214,8 @@ For website deployment I have decided to go with [Gitpod](https://gitpod.io) bec
   Simple as that!
 
 After deployment your project is connected to the repository you have selected, and is automatically deployed every time when repository changes.
+
+### Local Development 
 
 #### How to Fork
 
@@ -280,7 +284,7 @@ Content for this project was written by Sonia Majewska.
 
 Media was provided by the business owner. 
 
-### Acknowledgements
+### Acknowledgments
 
 - My mentor
 - Google search engine for limitless resources about web development.
