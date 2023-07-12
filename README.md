@@ -112,13 +112,13 @@ Images provided by business owner Thuy Lewis.
 
 Wireframes were created for mobile, tablet and desktop. 
 
-Home Page Wireframe![image](/workspace/ThuyLewisNailsBrowsAndLashes/assets/Home Page.png)
+Home Page Wireframe ![Home Page](https://github.com/STRAN90/ThuyLewisNailsBrowsAndLashes/assets/110825183/ca77c15a-c224-4e08-8386-488be9151957)
 
-Treatment Page Wireframe ![image](/workspace/ThuyLewisNailsBrowsAndLashes/assets/Treatments Page.png)
+Treatment Page Wireframe ![Treatments Page](https://github.com/STRAN90/ThuyLewisNailsBrowsAndLashes/assets/110825183/96c15916-651a-4e32-9c57-8dd2535e3b68)
 
-Gallery Page Wireframe ![image](/workspace/ThuyLewisNailsBrowsAndLashes/assets/Gallery.png)
+Gallery Page Wireframe ![Gallery](https://github.com/STRAN90/ThuyLewisNailsBrowsAndLashes/assets/110825183/1df66899-c1c4-4248-bccd-a6717d472d50)
 
-Contact Us Page Wireframe ![image](/workspace/ThuyLewisNailsBrowsAndLashes/assets/Contact Page.png)
+Contact Us Page Wireframe ![Contact Page](https://github.com/STRAN90/ThuyLewisNailsBrowsAndLashes/assets/110825183/79cd88e5-4d71-4e5b-ab8b-e238f840a2e8)
 
 ### Features
 
