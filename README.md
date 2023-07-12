@@ -112,13 +112,13 @@ Images provided by business owner Thuy Lewis.
 
 Wireframes were created for mobile, tablet and desktop. 
 
-[Home Page Wireframe](![image](https://github.com/STRAN90/ThuyLewisNailsBrowsAndLashes/assets/110825183/f8e1546f-40bf-4e3c-b2db-d98937a206a4))
+[Home Page Wireframe](![image](https://github.com/STRAN90/ThuyLewisNailsBrowsAndLashes/assets/110825183/f8e1546f-40bf-4e3c-b2db-d98937a206a4)
 
-[Treatment Page Wireframe](![image](https://github.com/STRAN90/ThuyLewisNailsBrowsAndLashes/assets/110825183/05f5dc4c-6bef-428b-913a-11266e77a16e))
+[Treatment Page Wireframe](![image](https://github.com/STRAN90/ThuyLewisNailsBrowsAndLashes/assets/110825183/05f5dc4c-6bef-428b-913a-11266e77a16e)
 
-[Gallery Page Wireframe](![image](https://github.com/STRAN90/ThuyLewisNailsBrowsAndLashes/assets/110825183/f093a8d2-5014-45f3-b633-24ada0b1cfc3))
+[Gallery Page Wireframe](![image](https://github.com/STRAN90/ThuyLewisNailsBrowsAndLashes/assets/110825183/f093a8d2-5014-45f3-b633-24ada0b1cfc3)
 
-[Contact Us Page Wireframe](![image](https://github.com/STRAN90/ThuyLewisNailsBrowsAndLashes/assets/110825183/7e8c2052-a13c-4193-8d7a-2311422d284b))
+[Contact Us Page Wireframe](![image](https://github.com/STRAN90/ThuyLewisNailsBrowsAndLashes/assets/110825183/7e8c2052-a13c-4193-8d7a-2311422d284b)
 
 ### Features
 
