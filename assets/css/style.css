@@ -23,9 +23,42 @@ body {
   padding-top: 20px;
 }
 
-#about {
-  background-color: brown;
+.p {
+  color: brown;
 }
 
-  /* NAVBAR */
+  /* About */
 
+#about-thuy {
+  background-color: #FBF6BD;
+}
+
+.about {
+  color: rgba(13, 13, 14, 0.945);
+  font-weight: bold;
+}
+
+#about {
+  color: rgba(13, 13, 14, 0.945);
+  font-weight: bold;
+  font-family: roboto, sans-serif;
+  font-size: larger;
+}
+
+ /* Testimonials */
+
+ .testimonials {
+  background-color: #ffb8d18f;
+ }
+
+.blockquote {
+  color: rgba(13, 13, 14, 0.945);
+  font-weight: bold;
+  font-size: larger;
+}
+
+.quote {
+  color: rgba(13, 13, 14, 0.945);
+  font-weight: bold;
+  font-family: Roboto, sans-serif;
+}
