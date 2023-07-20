@@ -1,13 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body {
+  font-family: Roboto, sans-serif;
+  color: #212529b6;
+
+#logo {
+
+}
+
+.navbar-custom {
+  font-family: Roboto, sans-serif;
+  color: #212529b6;
+}
+
 /* HERO IMAGE */
 
-.hero-outer {
-    border: none;
+#hero-outer {
+    width: 100%;
 }
 
-.img {
-        height: 100%
-        float: right;
-        border: 1px dotted black;
-        margin: 0px 0px 15px 20px;
-      }
+#hero-image {
+  height: 600px;
+  width: 100%;
+  overflow: hidden;
+  position: static;
 }
+
+
+
+#thuy-lewis {
+  height: 100%;
+  margin-top: 20px;
+  padding-top: 20px;
+
+}
+
+#right-about {
+  padding-top: 20px;
+  width: 50%;
+  height: 100%;
+  float: right;
+  margin-top: 20px;
+  padding-bottom: 20px;
+  background-color: brown;
+}
+
+@media screen and (max-width: 100%) {
+  #right-about {
+      float:none;
+  }
+
+  /* NAVBAR */
+
