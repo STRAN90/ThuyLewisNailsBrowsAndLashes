@@ -40,7 +40,6 @@ body {
 
 #about {
   color: rgba(13, 13, 14, 0.945);
-  font-weight: bold;
   font-family: roboto, sans-serif;
   font-size: larger;
 }
@@ -53,7 +52,6 @@ body {
 
 .blockquote {
   color: rgba(13, 13, 14, 0.945);
-  font-weight: bold;
   font-size: larger;
 }
 
@@ -62,3 +60,27 @@ body {
   font-weight: bold;
   font-family: Roboto, sans-serif;
 }
+
+/* Table */
+
+.treatments {
+  background-color: #e8fdf0
+}
+
+#services {
+  font-weight: bold;
+  color: rgba(13, 13, 14, 0.945);
+  }
+
+#treatments {
+  text-align: left;
+}
+
+.img-responsive { 
+  position: absolute; 
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
