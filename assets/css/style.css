@@ -1,8 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
+h2 {
+  font-weight: bold;
+  color: rgba(13, 13, 14, 0.521);
+}
+
 body {
   font-family: Roboto, sans-serif;
   color: #212529b6;
+  font-size: larger;
+}
+
+/* Navigation Bar */
+
+
+.header {
+  background-color: #f6f9faab;
+}
 
 /* HERO IMAGE */
 
@@ -30,16 +44,16 @@ body {
   /* About */
 
 #about-thuy {
-  background-color: #FBF6BD;
+  background-color: #fbf6bde5;
 }
 
 .about {
-  color: rgba(13, 13, 14, 0.945);
+  color: rgba(13, 13, 14, 0.521);
   font-weight: bold;
 }
 
 #about {
-  color: rgba(13, 13, 14, 0.945);
+  color: rgba(13, 13, 14, 0.521);
   font-family: roboto, sans-serif;
   font-size: larger;
 }
@@ -47,33 +61,41 @@ body {
  /* Testimonials */
 
  .testimonials {
-  background-color: #ffb8d18f;
+  background-color: rgba(255, 202, 221, 0.561);
+
  }
 
 .blockquote {
-  color: rgba(13, 13, 14, 0.945);
+  color: rgba(13, 13, 14, 0.521);
   font-size: larger;
 }
 
 .quote {
-  color: rgba(13, 13, 14, 0.945);
+  color: rgba(13, 13, 14, 0.521);
   font-weight: bold;
   font-family: Roboto, sans-serif;
 }
 
 /* Table */
 
+#table {
+padding-left: auto;
+padding-right: auto;
+}
+
 .treatments {
   background-color: #e8fdf0
+  margin: 0 auto;
 }
 
 #services {
   font-weight: bold;
-  color: rgba(13, 13, 14, 0.945);
+  color: rgba(13, 13, 14, 0.521);
+  text-align: center;
   }
 
-#treatments {
-  text-align: left;
+table {
+  border-collapse: separate;
 }
 
 .img-responsive { 
@@ -81,6 +103,49 @@ body {
 }
 
 .column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  align-content: center;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.img-fluid {
+  margin-left: 15px;
+  margin-right: 15px;
+  width: 60%;
+  height: 60%;
+  object-fit: cover;
+}
+
+.treatments {
+  overflow: hidden;
+}
+
+#grid {
+  margin-left: 0;
+}
+
+/* Contact */
+
+.contact {
+  font-weight: bold;
+  color: rgba(13, 13, 14, 0.521);  
+}
+
+.enquiries {
+  color: rgba(13, 13, 14, 0.521);
+  font-size: larger;
+}
+
+.submit-button {
+  text-align: center;
+}
+
+.btn-secondary {
+  color: #6c757d;
+  background-color: #fbbdf6e5;
+  border-color: #6c757d;
+  text-align: center;
+}

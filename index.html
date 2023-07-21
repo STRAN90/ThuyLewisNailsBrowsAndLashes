@@ -74,8 +74,8 @@
                     <div class="col-12 col-md-6">                
                         <blockquote class="blockquote">
                             <p><i>"Love coming to thuy so welcoming, love out chats, nails are always amazing,
-                            so talented and highly recommend her to anyone!</p>
-                            <p>Caroline Evans"</i></p>
+                            so talented and highly recommend her to anyone!</i></p>
+                            <p>>Caroline Evans</p>
                         </blockquote>
                     </div>
                     <div class="col-12 col-md-6">         
@@ -107,11 +107,11 @@
     <br>
     <!--Treatment list-->
         <section class="treatments">
-            <div class="container-fluid">
-                <div class="row justify-content-center col-sm-12 col-md-6 col-lg-6">
-                    <div class="col-auto">
+            <div class="container-fluid" id="grid">
+                <div class="row justify-content-center" >
+                    <div class="col-auto" id="table">
                         <h2 id="services">Treatments</h2>
-                            <table class="table table-borderless table-responsive" id="treatments">
+                            <table class="table table-borderless table-responsive mx-auto" id="treatments">
                                 <tbody>
                                     <tr class="table-success">
                                         <th scope="row" ></th>
@@ -152,71 +152,67 @@
                                 </tbody>
                             </table>
                     </div>
-                    <div class="col-sm-12 col-md-6 col-lg-6">
-                    <div class="column">
-                        <img class="img-fluid" src="assets/css/images/treatments/brow_lash.jpg" style="width:100%">
-                    </div>
-                    <div class="column">
-                        <img class="img-fluid" src="assets/css/images/treatments/french_manicure.jpg" style="width:100%">
-                    </div>
-                    <div>
-                        <img class="img-fluid" src="assets/css/images/treatments/pedicure.jpg" style="width:100%">
-                    </div>
-                    <div>
-                        <img class="img-fluid" src="assets/css/images/treatments/turkish_eye.jpg" style="width:100%">
-                    </div>
+                        <div class="column col col-lg-4 col-md-4 col-sm-6">
+                            <img class="img-fluid" src="assets/css/images/treatments/brow_lash.jpg">
+                            <img class="img-fluid" src="assets/css/images/treatments/french_manicure.jpg">
+                        </div>
+                        <div class="column col col-lg-4 col-md-4 col-sm-6">
+                            <img class="img-fluid" src="assets/css/images/treatments/pedicure.jpg">
+                            <img class="img-fluid" src="assets/css/images/treatments/turkish_eye.jpg">
+                        </div>
                     </div>
                     </div>
                     
                 
             </div>
         </section>
-
-                            <!--images-->
-                    </div>
-                </div>
-            </section>
+    <br>
+        
+    <!--Contact form section-->
+    <section>
+        <h2 class="contact">Contact</h2>
             <br>
-            <!--Contact form section-->
-            <section>
-                <h2>Contact</h2>
-                <br>
-                <p>
-                    If you have any enquiries about treatments or appointments, feel free to get in touch with the form below.
-                </p>
+                <p class="enquiries"> If you have any enquiries about treatments or appointments, 
+                    feel free to get in touch with the form below.</p>
                 <div>
                     <form>
-                        <input type="text" name="name" id="firstname" class="form-control" placeholder="Name" required />
-                        <input type="text" name="name" id="surnamename" class="form-control" placeholder="Surname" required />
-                        <input type="email" name="email" id="emailaddress" class="form-control" placeholder="Email" required />
-                        <input type="text" name="phone" id="phone" class="form-control" placeholder="Phone Number" required />
-                        <textarea rows="5" name="messagesummary" id="messgagesummary" class="form-control" placeholder="Message" required></textarea>
-                        <div class="form-row text-center">
-                            <div class="col">
-                                <button type="submit" class="btn btn-secondary">Send Message</button>
+                        <div class="form-row">
+                            <div class="col-md-6">                  
+                                <input type="text" name="name" id="firstname" class="form-control" placeholder="Name" required />
+                            </div>
+                            <div class="col-md-6">
+                                <input type="text" name="name" id="surnamename" class="form-control" placeholder="Surname" required />
+                            </div>
+                            <div class="form-group col-md-12">
+                                <input type="email" name="email" id="emailaddress" class="form-control" placeholder="Email" required />
+                                <input type="text" name="phone" id="phone" class="form-control" placeholder="Phone Number" required />
+                                <textarea rows="5" name="messagesummary" id="messgagesummary" class="form-control" placeholder="Message" required></textarea>
+                            </div>
+                            <div class="form-row text-center">
+                                <div class="submit-button">
+                                    <button type="submit" class="btn btn-secondary">Send Message</button>
+                                </div>
                             </div>
                         </div>
                     </form>
                 </div>
-            </section>
-            <!-- /.Contact form section-->
+        </section>
+    <!-- /.Contact form section-->
         
-            <!--Footer-->
-            <footer>
-                <div>
-                    <p>Thuy Lewis Nail, Brows & Lashes</p>
-                </div>
-                <br>
-                <div class="social-media">
-                    <a href="https://www.instagram.com/thuy_lewis_nails_brows_lashes/?fbclid=IwAR2N0cvsdOwErg9_fH0ohIcRqI_2l6cFAkIVcJQiJFEU1iaqrXAVusKt2ug" rel="noopener" target="_blank" 
-                    aria-label="Visit our Instagram page (opens in a new tab)" ><i class="fab fa-instagram"></i></a>
-                    <a href="https://m.facebook.com/profile.php?id=100063450806310" rel="noopener" target="_blank" 
-                    aria-label="Visit our Facebook page (opens in a new tab)" ><i class="fab fa-facebook"></i></a>
-                </div>
-            </footer>
+    <!--Footer-->
+    <footer>
+        <div>
+            <p>Thuy Lewis Nail, Brows & Lashes</p>
         </div>
-        </article>
-        <!-- /.Footer-->
+        <br>
+        <div class="social-media">
+            <a href="https://www.instagram.com/thuy_lewis_nails_brows_lashes/?fbclid=IwAR2N0cvsdOwErg9_fH0ohIcRqI_2l6cFAkIVcJQiJFEU1iaqrXAVusKt2ug" rel="noopener" target="_blank" 
+            aria-label="Visit our Instagram page (opens in a new tab)" ><i class="fab fa-instagram"></i></a>
+            <a href="https://m.facebook.com/profile.php?id=100063450806310" rel="noopener" target="_blank" 
+            aria-label="Visit our Facebook page (opens in a new tab)" ><i class="fab fa-facebook"></i></a>
+        </div>
+    </footer>
+    <!-- /.Footer-->
     
     <script src="https://kit.fontawesome.com/fce2e52a2f.js" crossorigin="anonymous"></script>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
