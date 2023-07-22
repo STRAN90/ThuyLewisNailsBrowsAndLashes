@@ -78,14 +78,9 @@ body {
 
 /* Table */
 
-#table {
-padding-left: auto;
-padding-right: auto;
-}
-
 .treatments {
-  background-color: #e8fdf0
-  margin: 0 auto;
+  background-color: #e8fdf0;
+  margin: 0 none;
 }
 
 #services {
