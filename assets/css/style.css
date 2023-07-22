@@ -162,6 +162,11 @@ table {
 
 /* Footer */
 
+.footer {
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
 #footer {
   font-family: Roboto, sans-serif;
   color: #212529b6;
