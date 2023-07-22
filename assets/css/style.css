@@ -125,6 +125,11 @@ table {
 
 /* Contact */
 
+.form-section {
+  background-color: #f6f9faab;
+  margin: 0 none;
+}
+
 .contact {
   font-weight: bold;
   color: rgba(13, 13, 14, 0.521);  
@@ -146,5 +151,27 @@ table {
   text-align: center;
 }
 
+.form-row {
+  justify-content: center;
+}
 
+/* Footer */
+#footer {
+  font-family: Roboto, sans-serif;
+  color: #212529b6;
+}
 
+a {
+  color: #dc99d0;
+}
+
+a:hover {
+  color: #dc99d0;
+}
+
+/* Google Map*/
+
+#map {
+  height: 400px;
+  width: 100%;
+}
