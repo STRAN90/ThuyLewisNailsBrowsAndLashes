@@ -9,6 +9,7 @@ body {
   font-family: Roboto, sans-serif;
   color: #212529b6;
   font-size: larger;
+  background-color: #f6f9faab;
 }
 
 /* Navigation Bar */
@@ -61,26 +62,28 @@ body {
  /* Testimonials */
 
  .testimonials {
-  background-color: rgba(255, 202, 221, 0.561);
+  background-color: rgba(255, 202, 221, 0.233);
 
  }
 
 .blockquote {
   color: rgba(13, 13, 14, 0.521);
   font-size: larger;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .quote {
   color: rgba(13, 13, 14, 0.521);
   font-weight: bold;
   font-family: Roboto, sans-serif;
+  padding-left: 10px;
 }
 
 /* Table */
 
 .treatments {
-  background-color: #e8fdf0;
-  margin: 0 none;
+  background-color: #cef5d550;
 }
 
 #services {
@@ -126,8 +129,9 @@ table {
 /* Contact */
 
 .form-section {
-  background-color: #f6f9faab;
-  margin: 0 none;
+  background-color: #2afc0042;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .contact {
@@ -153,9 +157,14 @@ table {
 
 .form-row {
   justify-content: center;
+  padding-bottom: 10px
 }
 
 /* Footer */
+.footer {
+  background-color: #f6f9faab;
+}
+
 #footer {
   font-family: Roboto, sans-serif;
   color: #212529b6;
