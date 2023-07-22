@@ -38,14 +38,12 @@ body {
   padding-top: 20px;
 }
 
-.p {
-  color: brown;
-}
 
   /* About */
 
 #about-thuy {
   background-color: #fbf6bde5;
+  padding-top: 10px;
 }
 
 .about {
@@ -62,7 +60,8 @@ body {
  /* Testimonials */
 
  .testimonials {
-  background-color: rgba(255, 202, 221, 0.233);
+  background-color: rgba(255, 202, 221, 0.561);
+  padding-top: 10px;
 
  }
 
@@ -83,7 +82,8 @@ body {
 /* Table */
 
 .treatments {
-  background-color: #cef5d550;
+  background-color: #f6f9faab;
+  margin: 0 none;
 }
 
 #services {
@@ -129,7 +129,7 @@ table {
 /* Contact */
 
 .form-section {
-  background-color: #2afc0042;
+  background-color: #f6f9faab;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -161,9 +161,6 @@ table {
 }
 
 /* Footer */
-.footer {
-  background-color: #f6f9faab;
-}
 
 #footer {
   font-family: Roboto, sans-serif;
