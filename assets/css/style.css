@@ -112,11 +112,11 @@ table {
 }
 
 .img-fluid {
-  margin-left: 15px;
+  margin-left: 33%;
   margin-right: 15px;
   width: 60%;
   height: 60%;
-  object-fit: cover;
+  object-fit: contain;
 }
 
 .treatments {
@@ -126,6 +126,7 @@ table {
 #grid {
   margin-left: 0;
 }
+
 
 /* Contact */
 
@@ -149,3 +150,6 @@ table {
   border-color: #6c757d;
   text-align: center;
 }
+
+
+
