@@ -42,7 +42,7 @@ body {
   /* About */
 
 #about-thuy {
-  background-color: #fbf6bde5;
+  background-color: #fbf6bd75;
   padding-top: 10px;
 }
 
@@ -57,10 +57,16 @@ body {
   font-size: larger;
 }
 
+pre {
+  color: rgba(13, 13, 14, 0.521);
+  font-family: roboto, sans-serif;
+  font-size: larger;
+}
+
  /* Testimonials */
 
  .testimonials {
-  background-color: rgba(255, 202, 221, 0.561);
+  background-color: rgba(255, 202, 221, 0.192);
   padding-top: 10px;
 
  }
