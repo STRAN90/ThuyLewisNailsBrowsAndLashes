@@ -192,3 +192,12 @@ a:hover {
   height: 400px;
   width: 100%;
 }
+
+/* Treatments */
+
+#hero-outer h3 {
+  display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
