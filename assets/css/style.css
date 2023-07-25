@@ -204,3 +204,6 @@ align-items: center;
 
 /* Contact page */
 
+h3 {
+  text-align: center;
+}
