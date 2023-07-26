@@ -51,6 +51,8 @@ h3 {
 
 #about-section {
   margin: 0%;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 #about-thuy {
@@ -188,6 +190,13 @@ table {
 .form-row {
   justify-content: center;
   padding-bottom: 10px
+}
+
+/* GOOGLE MAP */
+
+#map {
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 /* FOOTER SECTION */
