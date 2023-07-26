@@ -5,6 +5,10 @@ h2 {
   color: rgba(13, 13, 14, 0.521);
 }
 
+h3 {
+  text-align: center;
+}
+
 body {
   font-family: 'Roboto', sans-serif;
   color: #212529b6;
@@ -12,34 +16,41 @@ body {
   background-color: #f6f9faab;
 }
 
-/* Navigation Bar */
+.row {
+  margin-right: 0
+}
 
+/* Navigation Bar */
 
 .header {
   background-color: #f6f9faab;
 }
 
+.navbar {
+      font-size: larger;
+    } 
+    
 /* HERO IMAGE */
+
+.container-fluid {
+  padding: 0;
+  margin: 0;
+}
 
 #hero-outer {
     width: 100%;
 }
 
-#hero-image {
-  height: 600px;
-  width: 100%;
-  overflow: hidden;
-  position: static;
-}
-
 #thuy-lewis {
-  height: 100%;
-  margin-top: 20px;
-  padding-top: 20px;
+  padding-top: 50px;
+  padding-right: 17px;
 }
-
 
   /* About */
+
+#about-section {
+  margin: 0%;
+}
 
 #about-thuy {
   background-color: #fbf6bd75;
@@ -49,18 +60,21 @@ body {
 .about {
   color: rgba(13, 13, 14, 0.521);
   font-weight: bold;
+  padding-left: 10px;
 }
 
 #about {
   color: rgba(13, 13, 14, 0.521);
   font-family: 'Roboto', sans-serif;
   font-size: larger;
+  padding-left: 10px;
 }
 
 pre {
   color: rgba(13, 13, 14, 0.521);
   font-family: 'Roboto', sans-serif;
   font-size: larger;
+  padding-left: 10px;
 }
 
  /* Testimonials */
@@ -87,6 +101,12 @@ pre {
 
 /* Table */
 
+.col-auto {
+  padding-left: 4%;
+  padding-top: 5%;
+  
+}
+
 .treatments {
   background-color: #f6f9faab;
   margin: 0 none;
@@ -106,31 +126,24 @@ table {
   position: absolute; 
 }
 
-.column {
-  display: flex;
-  flex-wrap: nowrap;
-  flex-direction: column;
-  align-content: center;
-  justify-content: space-evenly;
-  align-items: center;
-}
-
 .img-fluid {
   margin-left: 33%;
   margin-right: 15px;
-  width: 60%;
-  height: 60%;
+  width: 70%;
+  height: 40%;
   object-fit: contain;
+  border: 4px solid #a01c9927;
+  margin-bottom: 20px;
+}
+
+#image-examples {
+  padding-top: 90px;
+
 }
 
 .treatments {
   overflow: hidden;
 }
-
-#grid {
-  margin-left: 0;
-}
-
 
 /* Contact */
 
@@ -204,6 +217,3 @@ align-items: center;
 
 /* Contact page */
 
-h3 {
-  text-align: center;
-}
