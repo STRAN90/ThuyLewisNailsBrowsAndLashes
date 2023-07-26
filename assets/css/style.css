@@ -6,7 +6,7 @@ h2 {
 }
 
 body {
-  font-family: Roboto, sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: #212529b6;
   font-size: larger;
   background-color: #f6f9faab;
@@ -53,13 +53,13 @@ body {
 
 #about {
   color: rgba(13, 13, 14, 0.521);
-  font-family: roboto, sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: larger;
 }
 
 pre {
   color: rgba(13, 13, 14, 0.521);
-  font-family: roboto, sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: larger;
 }
 
@@ -81,7 +81,7 @@ pre {
 .quote {
   color: rgba(13, 13, 14, 0.521);
   font-weight: bold;
-  font-family: Roboto, sans-serif;
+  font-family: 'Roboto', sans-serif;
   padding-left: 10px;
 }
 
@@ -174,7 +174,7 @@ table {
 }
 
 #footer {
-  font-family: Roboto, sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: #212529b6;
 }
 

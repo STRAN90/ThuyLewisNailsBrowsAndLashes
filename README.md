@@ -6,7 +6,7 @@
 
 **Thuy Lewis Nails Brows & Lashes**  B2C website showcasing an experienced beauty business located in Bridgend - South Wales. Thuy Lewis specialises in brows, lashes and creative nail designs using different techniques. 
 
-I have designed the website to look professional with a colour scheme as it is the main focus of the business. It is designed to be fully responsive and accessible on a range of devices, making it easy to navigate for potential and existing customers.
+I have designed the website to look professional as its main focus. It is designed to be fully responsive and accessible on a range of devices, making it easy to navigate for potential and existing customers.
 
 The goal of the website is to provide an up-to-date pictures portfolio (creative nail designs, brow and lash transformations), information about the services it delivers, and also allow an easy way for getting in touch with the business owner.
 
@@ -93,16 +93,14 @@ The site must meet all the requirements and goals as potential visitors will mos
 
 ### Colour Scheme
 
-The website uses ....., we wanted to choose colours to reflect the creative personality of the business owner. 
+The website uses light pastel colours, we wanted to choose colours to reflect the creative personality of the business owner and the hero image used in the home page. 
 
 ### Typography
 
 - [Google Fonts](https://fonts.google.com/)
 
-  - Used 'Great Vibes': "handwritten" font for the logo as it perfectly matches the artistic design of the website.
+  - Used 'Roboto': "light 300" font for the website as it great for accessibilty.
 
-- [Adobe Fonts](https://fonts.adobe.com/)
-  - Used 'Aileron' as a main font because its natural design brings the user clean reading.### Wireframe
 
 ### Imagery
 
@@ -134,7 +132,7 @@ The website is comprised of four pages, each is accessible from the navigation m
   * Hero Section. 
   The hero shows an image of a popular nail design liked by clients. 
   *About Section 
-  This gives users information of Thuy Lewis. On large screens an image of Thuy Lewis is seen and laid out in a row. However no image is seen on mobile device. 
+  This gives users information of Thuy Lewis. On large screens an image of Thuy Lewis in action is seen and laid out in a row. However no image is seen on mobile device. 
   *Testimonials Section
   This section gives reviews from clients. On mobile these are stacked vertically, however on larger screens there can be seen an extra review and set out in rows of twos. 
   *Treatments Section
@@ -166,7 +164,8 @@ I have been mindful during coding to ensure the website is as accessable friendl
 
 * Using semantic HTML.
 * Using descriptive alt attributes on images on the site. 
-* Ensuring there are sufficient colour contrast throughout the site. 
+* Ensuring there are sufficient colour contrast throughout the site.
+* Using font style with good accessibilty 
 
 ---
 
@@ -181,7 +180,9 @@ I have been mindful during coding to ensure the website is as accessable friendl
 
 Balsamiq - Used to create wireframes. 
 
-Bootstrap version - The Framework for the website. Code used for . Additional CSS styling was also implemented in style.css. 
+Bootstrap version 4.2.1 - The Framework for the website. Code used for additional CSS styling was also implemented in style.css. 
+
+[Gitpod] (https://gitpod.io/) - Open source developer platform, an IDE running in the Cloud. 
 
 [Git](https://git-scm.com/) - Version control tool for tracking changes in code.
 
