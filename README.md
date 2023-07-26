@@ -13,7 +13,7 @@ The goal of the website is to provide an up-to-date pictures portfolio (creative
 
 The site must meet all the requirements and goals as potential visitors will most likely be comparing other similar local services, so the final website look must stand out and show everything the user would want to see.
 
-**Link to** [live site]
+**Link to** [https://8000-stran90-thuylewisnailsb-q4rxt8symyu.ws-eu102.gitpod.io]
 
 ---
 
@@ -154,7 +154,7 @@ The website is comprised of four pages, each is accessible from the navigation m
 
 ### Future Implementations.
 
-  *
+  * Slideshow image reel for gallery page
   *
   *
   *
@@ -166,7 +166,7 @@ I have been mindful during coding to ensure the website is as accessable friendl
 * Using semantic HTML.
 * Using descriptive alt attributes on images on the site. 
 * Ensuring there are sufficient colour contrast throughout the site.
-* Using font style with good accessibilty 
+* Using font style with good accessibilty.
 
 ---
 
