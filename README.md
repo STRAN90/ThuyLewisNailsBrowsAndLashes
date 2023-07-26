@@ -1,7 +1,8 @@
-[amiresponsive](https://ui.dev/amiresponsive)
-
 # Thuy Lewis Nails Brows & Lashes
 
+<p align="center">
+  <img src="assets/css/images/Readme/amiresponsive.png" width="600" height="100%">
+</p>
 ## Project Overview 
 
 **Thuy Lewis Nails Brows & Lashes**  B2C website showcasing an experienced beauty business located in Bridgend - South Wales. Thuy Lewis specialises in brows, lashes and creative nail designs using different techniques. 
