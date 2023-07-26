@@ -1,4 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #212529b6;
+  font-size: larger;
+  background-color: #f6f9faab;
+}
 
 h2 {
   font-weight: bold;
@@ -9,18 +15,11 @@ h3 {
   text-align: center;
 }
 
-body {
-  font-family: 'Roboto', sans-serif;
-  color: #212529b6;
-  font-size: larger;
-  background-color: #f6f9faab;
-}
-
 .row {
   margin-right: 0
 }
 
-/* Navigation Bar */
+/* NAVIGATION BAR */
 
 .header {
   background-color: #f6f9faab;
@@ -39,6 +38,8 @@ body {
 
 #hero-outer {
     width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 #thuy-lewis {
@@ -46,7 +47,7 @@ body {
   padding-right: 17px;
 }
 
-  /* About */
+  /* ABOUT SECTION */
 
 #about-section {
   margin: 0%;
@@ -77,7 +78,7 @@ pre {
   padding-left: 10px;
 }
 
- /* Testimonials */
+ /* TESTIMONIAL SECTION */
 
  .testimonials {
   background-color: rgba(255, 202, 221, 0.192);
@@ -90,6 +91,7 @@ pre {
   font-size: larger;
   padding-left: 10px;
   padding-right: 10px;
+  padding-top: 10px;
 }
 
 .quote {
@@ -99,12 +101,15 @@ pre {
   padding-left: 10px;
 }
 
-/* Table */
+/* TREATMENT/ PRICELIST TABLE */
 
 .col-auto {
   padding-left: 4%;
   padding-top: 5%;
-  
+}
+
+div#table {
+  margin-left: 25px;
 }
 
 .treatments {
@@ -120,6 +125,7 @@ pre {
 
 table {
   border-collapse: separate;
+  font-size: x-large;
 }
 
 .img-responsive { 
@@ -138,14 +144,18 @@ table {
 
 #image-examples {
   padding-top: 90px;
-
+  padding-right: 45px;
 }
 
 .treatments {
   overflow: hidden;
 }
 
-/* Contact */
+.col-md-4 {
+  flex: 10
+  }
+
+/* CONTACT SECTION */
 
 .form-section {
   background-color: #f6f9faab;
@@ -155,7 +165,8 @@ table {
 
 .contact {
   font-weight: bold;
-  color: rgba(13, 13, 14, 0.521);  
+  color: rgba(13, 13, 14, 0.521);
+  padding-top: 10px;  
 }
 
 .enquiries {
@@ -179,7 +190,7 @@ table {
   padding-bottom: 10px
 }
 
-/* Footer */
+/* FOOTER SECTION */
 
 .footer {
   padding-top: 20px;
@@ -199,14 +210,14 @@ a:hover {
   color: #dc99d0;
 }
 
-/* Google Map*/
+/* GOOGLE MAP SECTION */
 
 #map {
   height: 400px;
   width: 100%;
 }
 
-/* Treatments */
+/* TREATMENTS.HTML */
 
 #hero-outer h3 {
   display: flex;
@@ -215,5 +226,8 @@ justify-content: center;
 align-items: center;
 }
 
-/* Contact page */
+div#grid {
+  padding-right: 5px;
+}
+
 
