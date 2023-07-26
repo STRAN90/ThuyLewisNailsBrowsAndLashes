@@ -42,12 +42,12 @@ h3 {
     padding-right: 10px;
 }
 
+  /* ABOUT SECTION */
+
 #thuy-lewis {
   padding-top: 50px;
   padding-right: 17px;
 }
-
-  /* ABOUT SECTION */
 
 #about-section {
   margin: 0%;
@@ -78,6 +78,7 @@ pre {
   font-family: 'Roboto', sans-serif;
   font-size: larger;
   padding-left: 10px;
+  text-align: left;
 }
 
  /* TESTIMONIAL SECTION */
