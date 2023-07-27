@@ -183,6 +183,8 @@ Balsamiq - Used to create wireframes.
 
 Bootstrap version 4.2.1 - The Framework for the website. Code used for additional CSS styling was also implemented in style.css. 
 
+Google map generator - Was used to import business location.
+
 [Gitpod] (https://gitpod.io/) - Open source developer platform, an IDE running in the Cloud. 
 
 [Git](https://git-scm.com/) - Version control tool for tracking changes in code.
