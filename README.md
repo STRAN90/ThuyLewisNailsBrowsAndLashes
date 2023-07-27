@@ -154,10 +154,9 @@ The website is comprised of four pages, each is accessible from the navigation m
 
 ### Future Implementations.
 
-  * Slideshow image reel for gallery page
-  *
-  *
-  *
+  * Slideshow image reel for gallery page. 
+  * Send email notification to user once form has been submitted. 
+  * Add favicon to website. 
 
 ### Accessibility 
 
@@ -226,7 +225,7 @@ After deployment your project is connected to the repository you have selected, 
 To fork the Thuy Lewis Nails, Brows & Lashes repository:
 
 1. Log in (or sign up) to Github.
-2. Go to the repository for this project, .....
+2. Go to the repository for this project, https://github.com/STRAN90/ThuyLewisNailsBrowsAndLashes.git
 3. Click the Fork button in the top right corner.
 
 #### How to Clone
@@ -234,7 +233,7 @@ To fork the Thuy Lewis Nails, Brows & Lashes repository:
 To clone the Thuy Lewis Nails, Brows & Lashes repository:
 
 1. Log in (or sign up) to GitHub.
-2. Go to the repository for this project, .......
+2. Go to the repository for this project, https://github.com/STRAN90/ThuyLewisNailsBrowsAndLashes.git
 3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
 4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
 5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
@@ -243,7 +242,8 @@ To clone the Thuy Lewis Nails, Brows & Lashes repository:
 
 ## Testing
 
-Testing was ongoing throughout the entire build. I utilised Chrome developer tools while building to pinpoint and troubleshoot any issues as I went along.
+Testing was ongoing throughout the entire build. I utilised Google Chrome developer tools while building to pinpoint and troubleshoot any issues as I went along.
+Each device has been inspected using Google Chrome developer to ensure each page is fully reponsive on a variety of different screen sizes and devices. I have also physically tested the responsivness of the site on a number of different devices. 
 
 The following issues were raised during my mid project meeting with my mentor:
 
@@ -262,19 +262,29 @@ The W3C validator was used to validate the HTML on all pages of the website. It 
 
 ### Solved Bugs
 
-1. 
-2. 
-3. 
-4. 
-5. 
+1. Bug: Nav bar aligned to the right. 
+   Fixed: Changed .mr-2 to .ml-auto
+
+2. Error: Bad value 100% for attribute width on element img: Expected a digit but saw % instead.
+  From line 39, column 17; to line 39, column 147
+
+          <img src="assets/css/images/Homepage/hero_image.jpg" class="hero-image" alt="finished french style rainbow tip nails" width="100%"↩
+
+Fix: Removing width from img element in index.html and setting CSS rule of width=100% to hero-image class attribute in the style.css. 
+
+3. Error: Bad value 100% for attribute width on element img: Expected a digit but saw % instead.
+
+From line 65, column 25; to line 65, column 125
+
+          <img src="assets/css/images/Homepage/in_action.jpg" alt="Photo of Thuy Lewis in action" width="100%">↩  
+
+Fix: Removing width from img element in index.html and setting CSS rule of width=100% to thuy-lewis id attribute in the style.css. 
+ 
 
 ### Known Bugs
 
-1. 
+1. Images size to big, website slow to load. 
 2. 
-
-
-
 
 ## Credits
 
