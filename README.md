@@ -252,11 +252,11 @@ The Following items were brought up when I submitted my site to peer code review
 
 The W3C validator was used to validate the HTML on all pages of the website. It was also used to validate CSS in the style.css file.
 
-* [Index Page HTML]()
-* [Treatments Page HTML]()
-* [Gallery Page HTML]()
-* [Contact Page HTML]()
-* [style.css CSS]()
+* [Index Page HTML](assets/css/images/Readme/w3c_index.png)
+* [Treatments Page HTML](assets/css/images/Readme/w3c_treatments.png)
+* [Gallery Page HTML](assets/css/images/Readme/w3c_gallery.png)
+* [Contact Page HTML](assets/css/images/Readme/w3c_contact.png)
+* [style.css CSS](assets/css/images/Readme/w3c_css_validator.png)
 
 ### Solved Bugs
 
