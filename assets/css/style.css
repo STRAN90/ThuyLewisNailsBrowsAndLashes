@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
 body {
   font-family: 'Roboto', sans-serif;
   color: #212529b6;
@@ -8,7 +9,7 @@ body {
 
 h2 {
   font-weight: bold;
-  color: rgba(13, 13, 14, 0.521);
+  color: #0d0d0e85;
 }
 
 h3 {
@@ -26,8 +27,9 @@ h3 {
 }
 
 .navbar {
-      font-size: larger;
-    } 
+  font-size: larger;
+  } 
+
     
 /* HERO IMAGE */
 
@@ -41,13 +43,13 @@ img.hero-image {
 }
 
 #hero-outer {
-    width: 100%;
-    padding-left: 10px;
-    padding-right: 10px;
-    background-size: cover ;
+  width: 100%;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-size: cover ;
 }
 
-  /* ABOUT SECTION */
+/* ABOUT SECTION */
 
 #thuy-lewis {
   padding-top: 50px;
@@ -67,13 +69,13 @@ img.hero-image {
 }
 
 .about {
-  color: rgba(13, 13, 14, 0.521);
+  color: #0d0d0e85;
   font-weight: bold;
   padding-left: 10px;
 }
 
 #about {
-  color: rgba(13, 13, 14, 0.521);
+  color: #0d0d0e85;
   font-family: 'Roboto', sans-serif;
   font-size: larger;
   padding-left: 10px;
@@ -88,13 +90,13 @@ img.hero-image {
  /* TESTIMONIAL SECTION */
 
  .testimonials {
-  background-color: rgba(255, 202, 221, 0.192);
+  background-color: #ffcadd31;
   padding-top: 10px;
 
  }
 
 .blockquote {
-  color: rgba(13, 13, 14, 0.521);
+  color: #0d0d0e85;
   font-size: larger;
   padding-left: 10px;
   padding-right: 10px;
@@ -102,7 +104,7 @@ img.hero-image {
 }
 
 .quote {
-  color: rgba(13, 13, 14, 0.521);
+  color: #0d0d0e85;
   font-weight: bold;
   font-family: 'Roboto', sans-serif;
   padding-left: 10px;
@@ -126,7 +128,7 @@ div#table {
 
 #services {
   font-weight: bold;
-  color: rgba(13, 13, 14, 0.521);
+  color: #0d0d0e85;
   text-align: center;
   }
 
@@ -177,12 +179,12 @@ table {
 
 .contact {
   font-weight: bold;
-  color: rgba(13, 13, 14, 0.521);
+  color: #0d0d0e85;
   padding-top: 10px;  
 }
 
 .enquiries {
-  color: rgba(13, 13, 14, 0.521);
+  color: #0d0d0e85;
   font-size: larger;
 }
 
@@ -240,9 +242,9 @@ a:hover {
 
 #hero-outer h3 {
   display: flex;
-flex-direction: column;
-justify-content: center;
-align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 div#grid {
