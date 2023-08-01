@@ -45,7 +45,6 @@ The site must meet all the requirements and goals as potential visitors will mos
     * [How to Clone](#how-to-clone)
 
 * [Credits](#credits)
-  * [Code Used](#code-used)
   * [Content](#content)
   * [Media](#media)
   * [Acknowledgments](#acknowledgments)
@@ -103,7 +102,6 @@ The website uses light pastel colours, we wanted to choose colours to reflect th
 
   - Used 'Roboto': "light 300" font for the website as it great for accessibilty.
 
-
 ### Imagery
 
 Images provided by business owner Thuy Lewis.
@@ -117,7 +115,6 @@ Gallery Page Wireframe ![Gallery](https://github.com/STRAN90/ThuyLewisNailsBrows
 
 Contact Us Page Wireframe ![Contact Page](https://github.com/STRAN90/ThuyLewisNailsBrowsAndLashes/assets/110825183/79cd88e5-4d71-4e5b-ab8b-e238f840a2e8)
 Wireframes were created for mobile, tablet and desktop. 
-
 
 ### Features
 
@@ -202,7 +199,6 @@ Google map generator - Was used to import business location.
 
 Google Dev Tools - To troubleshoot and test features, solve issues with responsiveness and styling. 
 
-
 ## Testing
 
 Testing was ongoing throughout the entire build. I utilised Google Chrome developer tools while building to pinpoint and troubleshoot any issues as I went along.
@@ -277,8 +273,6 @@ From line 65, column 25; to line 65, column 125
 Fix: Removing width from img element in index.html and setting CSS rule of width=100% to thuy-lewis id attribute in the style.css. 
  
 ## Credits
-
-### Code Used
 
 ### Content
 
