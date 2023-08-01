@@ -257,6 +257,6 @@ div#grid {
 
 /* CONFIRMATION.HTML */
 
-div p {
+div#confirmation p {
   text-align: center;
 }
