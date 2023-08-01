@@ -36,13 +36,13 @@ The site must meet all the requirements and goals as potential visitors will mos
   * [Languages Used](#languages-used)
   * [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
 
+* [Testing](#testing)
+
 * [Deployment & Local Development](#deployment--local-development)
   * [Deployment](#deployment)
   * [Local Development](#local-development)
     * [How to Fork](#how-to-fork)
     * [How to Clone](#how-to-clone)
-
-* [Testing](#testing)
 
 * [Credits](#credits)
   * [Code Used](#code-used)
@@ -109,7 +109,7 @@ The website uses light pastel colours, we wanted to choose colours to reflect th
 Images provided by business owner Thuy Lewis.
 
 ### Wireframes
-Home Page Wireframe ![Home Page](![](vscode-remote://stran90-thuylewisnailsb-q4rxt8symyu.ws-eu102.gitpod.io/workspace/ThuyLewisNailsBrowsAndLashes/README.docs/wireframes/contact.png))
+Home Page Wireframe ![Home Page](https://github.com/STRAN90/ThuyLewisNailsBrowsAndLashes/assets/110825183/ca77c15a-c224-4e08-8386-488be9151957)
 
 Treatment Page Wireframe ![Treatments Page](https://github.com/STRAN90/ThuyLewisNailsBrowsAndLashes/assets/110825183/96c15916-651a-4e32-9c57-8dd2535e3b68)
 
@@ -117,7 +117,6 @@ Gallery Page Wireframe ![Gallery](https://github.com/STRAN90/ThuyLewisNailsBrows
 
 Contact Us Page Wireframe ![Contact Page](https://github.com/STRAN90/ThuyLewisNailsBrowsAndLashes/assets/110825183/79cd88e5-4d71-4e5b-ab8b-e238f840a2e8)
 Wireframes were created for mobile, tablet and desktop. 
-
 
 
 ### Features
@@ -204,6 +203,13 @@ Google map generator - Was used to import business location.
 Google Dev Tools - To troubleshoot and test features, solve issues with responsiveness and styling. 
 
 
+## Testing
+
+Testing was ongoing throughout the entire build. I utilised Google Chrome developer tools while building to pinpoint and troubleshoot any issues as I went along.
+Each device has been inspected using Google Chrome developer to ensure each page is fully reponsive on a variety of different screen sizes and devices. I have also physically tested the responsivness of the site on a number of different devices. 
+
+The following issues were raised during my mid project meeting with my mentor:
+
 ## Deployment & Local Development 
 
 ### Deployment
@@ -214,10 +220,9 @@ For website deployment I have decided to go with [Gitpod](https://gitpod.io) bec
 - Login with GitHub,
 - Import desired git repository,
 - Configure project,
-- Deploy.
-  Simple as that!
-
-After deployment your project is connected to the repository you have selected, and is automatically deployed every time when repository changes.
+- Type "python3 -m http.server" into terminal 
+- Select 'Open in new browser' when pop up appears. 
+- Website deployed!
 
 ### Local Development 
 
@@ -240,16 +245,6 @@ To clone the Thuy Lewis Nails, Brows & Lashes repository:
 5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
 
 - - -
-
-## Testing
-
-Testing was ongoing throughout the entire build. I utilised Google Chrome developer tools while building to pinpoint and troubleshoot any issues as I went along.
-Each device has been inspected using Google Chrome developer to ensure each page is fully reponsive on a variety of different screen sizes and devices. I have also physically tested the responsivness of the site on a number of different devices. 
-
-The following issues were raised during my mid project meeting with my mentor:
-
-
-The Following items were brought up when I submitted my site to peer code review on slack.
 
 ### W3C Validator
 
@@ -281,12 +276,6 @@ From line 65, column 25; to line 65, column 125
 
 Fix: Removing width from img element in index.html and setting CSS rule of width=100% to thuy-lewis id attribute in the style.css. 
  
-
-### Known Bugs
-
-1. Images size to big, website slow to load. 
-2. 
-
 ## Credits
 
 ### Code Used
