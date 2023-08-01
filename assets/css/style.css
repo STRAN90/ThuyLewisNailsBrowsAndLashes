@@ -203,6 +203,11 @@ table {
 .form-control {
   margin-bottom: 1px;
 }
+
+.info {
+  margin-left: 10px;
+}
+
 /* GOOGLE MAP */
 
 #map {
