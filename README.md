@@ -37,8 +37,6 @@ The site must meet all the requirements and goals as potential visitors will mos
   * [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
 
 * [Testing](#testing)
-  * [Manual Testing] (#manual-testing)
-  * [W3C Validator] (#W3C-Validator)
 
 * [Deployment & Local Development](#deployment--local-development)
   * [Deployment](#deployment)
@@ -137,19 +135,19 @@ The website is comprised of four pages, each is accessible from the navigation m
   This section gives reviews from clients. On mobile these are stacked vertically, however on larger screens there can be seen an extra review and set out in rows of twos. 
   *Treatments Section
   This section shows images of treatments and a table of list of treatments. On mobile screen they are stacked vertically, however on larger screens the images are on the right side of the table of treatments. 
-  *Contact form Section 
-  Form to contact the business owner and map image of loaction of business. The form contains fields for the users name, email address, phone number and personal message they want to send to the business owner. The user submits the form using the submit button. Users must fill in the name, email, and text area fields to be able to submit the form. If they don't a tooltip will guide them to fill in any information they have missed.
+
 
 * Treatments Page. 
- * A Table of treatments and pricelist
+ *A Table of treatments and pricelist
 
 * Gallery Page. 
- * A different variety of current nail designs to showcase Thuy Lewis skills, including eyebrows and lashes. Two more images can be seen on the desktop browser. 
+ *A different variety of current nail designs to showcase Thuy Lewis skills, including eyebrows and lashes. Two more images can be seen on the desktop browser. 
 
 * Contact Page
-  * A number of ways to get in touch with Thuy Lewis, address, email and phone number. 
-  * Opening times. 
-  * Form 
+  *A number of ways to get in touch with Thuy Lewis, address, email and phone number. 
+  *Opening times. 
+  *Contact form Section 
+  Form to contact the business owner and map image of loaction of business. The form contains fields for the users name, email address, phone number and personal message they want to send to the business owner. The user submits the form using the submit button. Users must fill in the name, email, and text area fields to be able to submit the form. If they don't a tooltip will guide them to fill in any information they have missed.
 
 ### Future Implementations.
 
@@ -278,6 +276,12 @@ The W3C validator was used to validate the HTML on all pages of the website. It 
 * [Contact Page HTML](README.docs/Readme/html_treatments.png)
 * [W3C CSS Validator](README.docs/Readme/w3c_css_validator.png)
 
+### Bugs
+
+The following issues were raised during my mid project meeting with my mentor:
+- Dupicate contact form on homepage and contact page.
+- Be consistent with choice of colour code. 
+
 ### Solved Bugs
 
 1. Bug: Nav bar aligned to the right. 
@@ -297,12 +301,6 @@ From line 65, column 25; to line 65, column 125
           <img src="assets/css/images/Homepage/in_action.jpg" alt="Photo of Thuy Lewis in action" width="100%">↩  
 
 Fix: Removing width from img element in index.html and setting CSS rule of width=100% to thuy-lewis id attribute in the style.css. 
- 
-### Bugs
-
-The following issues were raised during my mid project meeting with my mentor:
-- Dupicate contact form on homepage and contact page.
-- Be consistent with choice of colour code. 
 
 ## Deployment & Local Development 
 
