@@ -205,21 +205,42 @@ Testing was ongoing throughout the entire build. I utilised Google Chrome develo
 Each device has been inspected using Google Chrome developer to ensure each page is fully reponsive on a variety of different screen sizes and devices. I have also physically tested the responsivness of the site on a number of different devices. 
 
 I tested the contact form was worked as I wanted. The following steps were taken during tetsing:
+
 -Press send, with no data input. A 'Please fill in this field' warning appears on the next form box to enter information. 
+
+<p align="left">
+  <img src="README.docs/Readme/testing_name.png" width="100" height="50%">
+</p>
 
 -Fill name box with data, then press send. A 'Please fill in this field' warning appears on the next form box to enter information. 
 
-<p align="center">
-  <img src="README.docs/Readme/testing_name.png" width="100" height="50%">
+<p align="left">
+  <img src="README.docs/Readme/testing_surname.png" width="100" height="50%">
 </p>
 
 -Fill surname box with data, then press send. A 'Please fill in this field' warning appears on the next form box to enter information.
 
+<p align="left">
+  <img src="README.docs/Readme/testing_email.png" width="100" height="50%">
+</p>
+
 -Fill email box with data, then press send. A 'Please fill in this field' warning appears on the next form box to enter information.
+
+<p align="left">
+  <img src="README.docs/Readme/testing_phone.png" width="100" height="50%">
+</p>
 
 -Fill phone number box with data, then press send. A 'Please fill in this field' warning appears on the next form box to enter information.
 
--Fill message with data, then press send. Redirected to confirmation page that message has been sent. 
+<p align="left">
+  <img src="README.docs/Readme/testing_message.png" width="100" height="50%">
+</p>
+
+-Fill message with data, then press send. Redirected to confirmation page that message has been sent.
+
+<p align="left">
+  <img src=!["README.docs/Readme/testing_confirmation.png]" width="100" height="50%">
+</p>
 
 The following issues were raised during my mid project meeting with my mentor:
 - Dupicate contact form on homepage and contact page.
