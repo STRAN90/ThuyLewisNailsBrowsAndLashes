@@ -254,3 +254,9 @@ a:hover {
 div#grid {
   padding-right: 5px;
 }
+
+/* GALLERY.HTML */
+
+element.style {
+  margin: 0;
+}
