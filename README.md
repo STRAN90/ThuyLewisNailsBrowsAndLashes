@@ -37,6 +37,8 @@ The site must meet all the requirements and goals as potential visitors will mos
   * [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
 
 * [Testing](#testing)
+  * [Manual Testing] (#manual-testing)
+  * [W3C Validator] (#W3C-Validator)
 
 * [Deployment & Local Development](#deployment--local-development)
   * [Deployment](#deployment)
@@ -265,6 +267,36 @@ I tested the contact form was worked as I wanted. The following steps were taken
 #### Submission confirmation page
 
 * The links go to the right page
+
+### W3C Validator
+
+The W3C validator was used to validate the HTML on all pages of the website. It was also used to validate CSS in the style.css file.
+
+* [Index Page HTML](README.docs/Readme/html_index.png)
+* [Treatments Page HTML](README.docs/Readme/html_treatments.png)
+* [Gallery Page HTML](README.docs/Readme/html_treatments.png)
+* [Contact Page HTML](README.docs/Readme/html_treatments.png)
+* [W3C CSS Validator](README.docs/Readme/w3c_css_validator.png)
+
+### Solved Bugs
+
+1. Bug: Nav bar aligned to the right. 
+   Fixed: Changed .mr-2 to .ml-auto
+
+2. Error: Bad value 100% for attribute width on element img: Expected a digit but saw % instead.
+  From line 39, column 17; to line 39, column 147
+
+          <img src="assets/css/images/Homepage/hero_image.jpg" class="hero-image" alt="finished french style rainbow tip nails" width="100%"↩
+
+Fix: Removing width from img element in index.html and setting CSS rule of width=100% to hero-image class attribute in the style.css. 
+
+3. Error: Bad value 100% for attribute width on element img: Expected a digit but saw % instead.
+
+From line 65, column 25; to line 65, column 125
+
+          <img src="assets/css/images/Homepage/in_action.jpg" alt="Photo of Thuy Lewis in action" width="100%">↩  
+
+Fix: Removing width from img element in index.html and setting CSS rule of width=100% to thuy-lewis id attribute in the style.css. 
  
 ### Bugs
 
@@ -308,37 +340,6 @@ To clone the Thuy Lewis Nails, Brows & Lashes repository:
 
 - - -
 
-### W3C Validator
-
-The W3C validator was used to validate the HTML on all pages of the website. It was also used to validate CSS in the style.css file.
-
-* [Index Page HTML](README.docs/Readme/html_index.png)
-* [Treatments Page HTML](README.docs/Readme/html_treatments.png)
-* [Gallery Page HTML](README.docs/Readme/html_treatments.png)
-* [Contact Page HTML](README.docs/Readme/html_treatments.png)
-* [W3C CSS Validator](README.docs/Readme/w3c_css_validator.png)
-
-
-### Solved Bugs
-
-1. Bug: Nav bar aligned to the right. 
-   Fixed: Changed .mr-2 to .ml-auto
-
-2. Error: Bad value 100% for attribute width on element img: Expected a digit but saw % instead.
-  From line 39, column 17; to line 39, column 147
-
-          <img src="assets/css/images/Homepage/hero_image.jpg" class="hero-image" alt="finished french style rainbow tip nails" width="100%"↩
-
-Fix: Removing width from img element in index.html and setting CSS rule of width=100% to hero-image class attribute in the style.css. 
-
-3. Error: Bad value 100% for attribute width on element img: Expected a digit but saw % instead.
-
-From line 65, column 25; to line 65, column 125
-
-          <img src="assets/css/images/Homepage/in_action.jpg" alt="Photo of Thuy Lewis in action" width="100%">↩  
-
-Fix: Removing width from img element in index.html and setting CSS rule of width=100% to thuy-lewis id attribute in the style.css. 
- 
 ## Credits
 
 ### Content
