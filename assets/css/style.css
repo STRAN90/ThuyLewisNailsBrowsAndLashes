@@ -159,6 +159,7 @@ table {
 
 .treatments {
   overflow: hidden;
+  margin-right: 15px;
 }
 
 .col-md-4 {
