@@ -209,6 +209,10 @@ I tested the contact form was worked as I wanted. The following steps were taken
 
 -Fill name box with data, then press send. A 'Please fill in this field' warning appears on the next form box to enter information. 
 
+<p align="center">
+  <img src="README.docs/Readme/testing_name.png" width="300" height="100%">
+</p>
+
 -Fill surname box with data, then press send. A 'Please fill in this field' warning appears on the next form box to enter information.
 
 -Fill email box with data, then press send. A 'Please fill in this field' warning appears on the next form box to enter information.
