@@ -129,25 +129,25 @@ The website is comprised of four pages, each is accessible from the navigation m
 * Home Page. 
   * Hero Section. 
   The hero shows an image of a popular nail design liked by clients. 
-  *About Section 
+  * About Section.
   This gives users information of Thuy Lewis. On large screens an image of Thuy Lewis in action is seen and laid out in a row. However no image is seen on mobile device. 
-  *Testimonials Section
+  * Testimonials Section
   This section gives reviews from clients. On mobile these are stacked vertically, however on larger screens there can be seen an extra review and set out in rows of twos. 
-  *Treatments Section
+  * Treatments Section
   This section shows images of treatments and a table of list of treatments. On mobile screen they are stacked vertically, however on larger screens the images are on the right side of the table of treatments. 
 
-
-* Treatments Page. 
- *A Table of treatments and pricelist
+* Treatment Page. 
+  * A Table of treatments and pricelist.
 
 * Gallery Page. 
- *A different variety of current nail designs to showcase Thuy Lewis skills, including eyebrows and lashes. Two more images can be seen on the desktop browser. 
+  * A different variety of current nail designs to showcase Thuy Lewis skills, including eyebrows and lashes. Two more images can be seen on the desktop browser. 
 
-* Contact Page
-  *A number of ways to get in touch with Thuy Lewis, address, email and phone number. 
-  *Opening times. 
-  *Contact form Section 
+* Contact Page. 
+  * A number of ways to get in touch with Thuy Lewis, address, email and phone number. 
+  * Opening times. 
+  * Contact form Section 
   Form to contact the business owner and map image of loaction of business. The form contains fields for the users name, email address, phone number and personal message they want to send to the business owner. The user submits the form using the submit button. Users must fill in the name, email, and text area fields to be able to submit the form. If they don't a tooltip will guide them to fill in any information they have missed.
+  
 
 ### Future Implementations.
 
