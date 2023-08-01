@@ -204,6 +204,19 @@ Google Dev Tools - To troubleshoot and test features, solve issues with responsi
 Testing was ongoing throughout the entire build. I utilised Google Chrome developer tools while building to pinpoint and troubleshoot any issues as I went along.
 Each device has been inspected using Google Chrome developer to ensure each page is fully reponsive on a variety of different screen sizes and devices. I have also physically tested the responsivness of the site on a number of different devices. 
 
+I tested the contact form was worked as I wanted. The following steps were taken during tetsing:
+-Press send, with no data input. A 'Please fill in this field' warning appears on the next form box to enter information. 
+
+-Fill name box with data, then press send. A 'Please fill in this field' warning appears on the next form box to enter information. 
+
+-Fill surname box with data, then press send. A 'Please fill in this field' warning appears on the next form box to enter information.
+
+-Fill email box with data, then press send. A 'Please fill in this field' warning appears on the next form box to enter information.
+
+-Fill phone number box with data, then press send. A 'Please fill in this field' warning appears on the next form box to enter information.
+
+-Fill message with data, then press send. Redirected to confirmation page that message has been sent. 
+
 The following issues were raised during my mid project meeting with my mentor:
 - Dupicate contact form on homepage and contact page.
 - Be consistent with choice of colour code. 
