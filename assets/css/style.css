@@ -16,10 +16,6 @@ h3 {
   text-align: center;
 }
 
-.row {
-  margin-right: 0
-}
-
 /* NAVIGATION BAR */
 
 .header {
@@ -29,7 +25,6 @@ h3 {
 .navbar {
   font-size: larger;
   } 
-
     
 /* HERO IMAGE */
 
@@ -92,7 +87,8 @@ img.hero-image {
  .testimonials {
   background-color: #ffcadd31;
   padding-top: 10px;
-
+  margin-left: 10px;
+  margin-right: 10px;
  }
 
 .blockquote {
@@ -204,6 +200,9 @@ table {
   padding-bottom: 10px
 }
 
+.form-control {
+  margin-bottom: 1px;
+}
 /* GOOGLE MAP */
 
 #map {
@@ -251,4 +250,9 @@ div#grid {
   padding-right: 5px;
 }
 
+/* GALLERY.HTML */
 
+#photo {
+  margin-left: 10px;
+  margin-right: 10px;
+}
