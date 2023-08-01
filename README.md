@@ -204,7 +204,27 @@ Google Dev Tools - To troubleshoot and test features, solve issues with responsi
 Testing was ongoing throughout the entire build. I utilised Google Chrome developer tools while building to pinpoint and troubleshoot any issues as I went along.
 Each device has been inspected using Google Chrome developer to ensure each page is fully reponsive on a variety of different screen sizes and devices. I have also physically tested the responsivness of the site on a number of different devices. 
 
-I tested the contact form was worked as I wanted. The following steps were taken during tetsing:
+### Manual Testing 
+
+#### Navigation 
+
+Navigation's behaviour checked on every page for every responsive breakpoint (mobile, tablet, desktop, desktop-large):
+
+* Click on the website's logo redirects to index.html.
+* Click on Home link redirects to index.html.
+* Click on Treatment link redirects to treatments.html.
+* Click on Gallery link redirects to gallery.html.
+* Click on Contact link redirects to contact.html.
+
+Social media icons:
+
+* All icon links have target attribute set to "_blank" and open in new tab.
+* Click on Instagram icon opens new tab with Thuy Lewis Nails, Brows & Lashes profile.
+* Click on Facebook icon opens new tab with Thuy Lewis Nails, Brows & Lashes profile.
+
+#### Submit Contact Form
+
+I tested the contact form was worked as I wanted. The following steps were taken during testing:
 
 -Press send, with no data input. A 'Please fill in this field' warning appears on the next form box to enter information. 
 
@@ -241,6 +261,12 @@ I tested the contact form was worked as I wanted. The following steps were taken
 <p align="left">
   <img src="README.docs/Readme/testing_confirmation.png" width="100" height="50%">
 </p>
+
+#### Submission confirmation page
+
+* The links go to the right page
+ 
+### Bugs
 
 The following issues were raised during my mid project meeting with my mentor:
 - Dupicate contact form on homepage and contact page.
@@ -286,11 +312,12 @@ To clone the Thuy Lewis Nails, Brows & Lashes repository:
 
 The W3C validator was used to validate the HTML on all pages of the website. It was also used to validate CSS in the style.css file.
 
-* [Index Page HTML](README.docs/Readme/w3c_index.png) (README.docs/Readme/html_index.png)
-* [Treatments Page HTML](README.docs/Readme/w3c_treatments.png) (README.docs/Readme/html_treatments.png)
-* [Gallery Page HTML](README.docs/Readme/w3c_gallery.png) (README.docs/Readme/html_treatments.png)
-* [Contact Page HTML](README.docs/Readme/w3c_contact.png) (README.docs/Readme/html_treatments.png)
-* [style.css CSS](README.docs/Readme/w3c_css_validator.png)
+* [Index Page HTML](README.docs/Readme/html_index.png)
+* [Treatments Page HTML](README.docs/Readme/html_treatments.png)
+* [Gallery Page HTML](README.docs/Readme/html_treatments.png)
+* [Contact Page HTML](README.docs/Readme/html_treatments.png)
+* [W3C CSS Validator](README.docs/Readme/w3c_css_validator.png)
+
 
 ### Solved Bugs
 
