@@ -255,8 +255,8 @@ div#grid {
   padding-right: 5px;
 }
 
-/* GALLERY.HTML */
+/* CONFIRMATION.HTML */
 
-element.style {
-  margin: 0;
+div p {
+  text-align: center;
 }

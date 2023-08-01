@@ -205,6 +205,8 @@ Testing was ongoing throughout the entire build. I utilised Google Chrome develo
 Each device has been inspected using Google Chrome developer to ensure each page is fully reponsive on a variety of different screen sizes and devices. I have also physically tested the responsivness of the site on a number of different devices. 
 
 The following issues were raised during my mid project meeting with my mentor:
+- Dupicate contact form on homepage and contact page.
+- Be consistent with choice of colour code. 
 
 ## Deployment & Local Development 
 
