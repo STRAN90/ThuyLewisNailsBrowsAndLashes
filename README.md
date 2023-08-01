@@ -120,11 +120,11 @@ Wireframes were created for mobile, tablet and desktop.
 
 The website is comprised of four pages, each is accessible from the navigation menu (home page, treatments, gallery & contact page). 
 
-*All pages on the website have:
+All pages on the website have:
 
-  * A responsive navigation bar at the top which allows the user to navigate through the site. 
+- A responsive navigation bar at the top which allows the user to navigate through the site. 
 
-  * A footer which contains social media links to facebook and instagram. Icons were used to keep the footer clean and because they are universally recognisable. 
+- A footer which contains social media links to facebook and instagram. Icons were used to keep the footer clean and because they are universally recognisable. 
 
 * Home Page. 
   * Hero Section. 
