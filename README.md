@@ -239,7 +239,7 @@ I tested the contact form was worked as I wanted. The following steps were taken
 -Fill message with data, then press send. Redirected to confirmation page that message has been sent.
 
 <p align="left">
-  <img src=!["README.docs/Readme/testing_confirmation.png]" width="100" height="50%">
+  <img src="README.docs/Readme/testing_confirmation.png" width="100" height="50%">
 </p>
 
 The following issues were raised during my mid project meeting with my mentor:
