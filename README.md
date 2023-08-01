@@ -286,10 +286,10 @@ To clone the Thuy Lewis Nails, Brows & Lashes repository:
 
 The W3C validator was used to validate the HTML on all pages of the website. It was also used to validate CSS in the style.css file.
 
-* [Index Page HTML](README.docs/Readme/w3c_index.png)
-* [Treatments Page HTML](README.docs/Readme/w3c_treatments.png)
-* [Gallery Page HTML](README.docs/Readme/w3c_gallery.png)
-* [Contact Page HTML](README.docs/Readme/w3c_contact.png)
+* [Index Page HTML](README.docs/Readme/w3c_index.png) (README.docs/Readme/html_index.png)
+* [Treatments Page HTML](README.docs/Readme/w3c_treatments.png) (README.docs/Readme/html_treatments.png)
+* [Gallery Page HTML](README.docs/Readme/w3c_gallery.png) (README.docs/Readme/html_treatments.png)
+* [Contact Page HTML](README.docs/Readme/w3c_contact.png) (README.docs/Readme/html_treatments.png)
 * [style.css CSS](README.docs/Readme/w3c_css_validator.png)
 
 ### Solved Bugs
