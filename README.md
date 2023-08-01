@@ -1,8 +1,9 @@
 # Thuy Lewis Nails Brows & Lashes
 
 <p align="center">
-  <img src="assets/css/images/Readme/amiresponsive.png" width="600" height="100%">
+  <img src="README.docs/Readme/amiresponsive.png" width="600" height="100%">
 </p>
+
 ## Project Overview 
 
 **Thuy Lewis Nails Brows & Lashes**  B2C website showcasing an experienced beauty business located in Bridgend - South Wales. Thuy Lewis specialises in brows, lashes and creative nail designs using different techniques. 
@@ -13,7 +14,7 @@ The goal of the website is to provide an up-to-date pictures portfolio (creative
 
 The site must meet all the requirements and goals as potential visitors will most likely be comparing other similar local services, so the final website look must stand out and show everything the user would want to see.
 
-**Link to** [https://stran90.github.io/ThuyLewisNailsBrowsAndLashes/]
+**Link to** (https://stran90.github.io/ThuyLewisNailsBrowsAndLashes/)
 
 ---
 
@@ -108,16 +109,16 @@ The website uses light pastel colours, we wanted to choose colours to reflect th
 Images provided by business owner Thuy Lewis.
 
 ### Wireframes
-
-Wireframes were created for mobile, tablet and desktop. 
-
-Home Page Wireframe ![Home Page](https://github.com/STRAN90/ThuyLewisNailsBrowsAndLashes/assets/110825183/ca77c15a-c224-4e08-8386-488be9151957)
+Home Page Wireframe ![Home Page](![](vscode-remote://stran90-thuylewisnailsb-q4rxt8symyu.ws-eu102.gitpod.io/workspace/ThuyLewisNailsBrowsAndLashes/README.docs/wireframes/contact.png))
 
 Treatment Page Wireframe ![Treatments Page](https://github.com/STRAN90/ThuyLewisNailsBrowsAndLashes/assets/110825183/96c15916-651a-4e32-9c57-8dd2535e3b68)
 
 Gallery Page Wireframe ![Gallery](https://github.com/STRAN90/ThuyLewisNailsBrowsAndLashes/assets/110825183/1df66899-c1c4-4248-bccd-a6717d472d50)
 
 Contact Us Page Wireframe ![Contact Page](https://github.com/STRAN90/ThuyLewisNailsBrowsAndLashes/assets/110825183/79cd88e5-4d71-4e5b-ab8b-e238f840a2e8)
+Wireframes were created for mobile, tablet and desktop. 
+
+
 
 ### Features
 
