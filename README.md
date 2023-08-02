@@ -146,6 +146,8 @@ A footer which contains social media links to facebook and instagram. Icons were
   This section shows images of treatments and a table of list of treatments. On mobile screen they are stacked vertically, however on larger screens the images are on the right side of the table of treatments. 
 
 * Treatment Page. 
+  * Hero Section. 
+  The hero shows an image of a salon area. 
   * A Table of treatments and pricelist.
 
 * Gallery Page. 
@@ -235,40 +237,46 @@ Social media icons:
 
 I tested the contact form was worked as I wanted. The following steps were taken during testing:
 
--Press send, with no data input. A 'Please fill in this field' warning appears on the next form box to enter information. 
+-Press send, with no data input. A 'Please fill in this field' tooltip warning appears on the next form box to enter information. 
 
 <p align="left">
   <img src="README.docs/Readme/testing_name.png" width="100" height="50%">
 </p>
 
--Fill name box with data, then press send. A 'Please fill in this field' warning appears on the next form box to enter information. 
+-Fill name box with data, then press send. A 'Please fill in this field' tooltip warning appears on the next form box to enter information. 
 
 <p align="left">
   <img src="README.docs/Readme/testing_surname.png" width="100" height="50%">
 </p>
 
--Fill surname box with data, then press send. A 'Please fill in this field' warning appears on the next form box to enter information.
+-Fill surname box with data, then press send. A 'Please fill in this field' tooltip warning appears on the next form box to enter information.
 
 <p align="left">
   <img src="README.docs/Readme/testing_email.png" width="100" height="50%">
 </p>
 
--Fill email box with data, then press send. A 'Please fill in this field' warning appears on the next form box to enter information.
+-Fill email box with data, then press send. A 'Please fill in this field' tooltip warning appears on the next form box to enter information.
 
 <p align="left">
   <img src="README.docs/Readme/testing_phone.png" width="100" height="50%">
 </p>
 
--Fill phone number box with data, then press send. A 'Please fill in this field' warning appears on the next form box to enter information.
+-Fill phone number box with data, then press send. A 'Please fill in this field' tooltip warning appears on the next form box to enter information.
 
 <p align="left">
   <img src="README.docs/Readme/testing_message.png" width="100" height="50%">
 </p>
 
--Fill message with data, then press send. Redirected to confirmation page that message has been sent.
+-Fill message box with data, then press send. Redirected to confirmation page that message has been sent.
 
 <p align="left">
   <img src="README.docs/Readme/testing_confirmation.png" width="100" height="50%">
+</p>
+
+- Tested the tooltip warning for an email to be entered correctly by putting in no @ symbol in email box.
+
+<p align="left">
+  <img src="README.docs/Readme/testing_emailwarning.png" width="100" height="50%">
 </p>
 
 #### Submission confirmation page
