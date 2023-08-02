@@ -262,7 +262,13 @@ I tested the contact form was workeing as I wanted. The following steps were tak
   <img src="README.docs/Readme/testing_phone.png" width="100" height="50%">
 </p>
 
--Fill phone number box with data, then press send. A 'Please fill in this field' tooltip warning appears on the next form box to enter information.
+-Tested pattern="[0-9]{11} atrribute for input tel. Entered 4 digits and pressed send, tooltip warning requesting to match correct format. Entered 10 digits and pressed send, tooltip warning requesting correct format. Entered 12 digits and pressed send, tooltip warning requesting correct format.
+
+<p align="left">
+  <img src="README.docs/Readme/tel_pattern.png" width="100" height="50%">
+</p>
+
+-Fill phone number box with correct data, then press send. A 'Please fill in this field' tooltip warning appears on the next form box to enter information.
 
 <p align="left">
   <img src="README.docs/Readme/testing_message.png" width="100" height="50%">
@@ -376,7 +382,7 @@ Media was provided by the business owner.
 
 ### Acknowledgments
 
-- My mentor
+- My mentor Rohit Sharma for his knowledge and helpful advice. 
 - Google search engine for limitless resources about web development.
 
 
