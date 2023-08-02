@@ -37,6 +37,7 @@ The site must meet all the requirements and goals as potential visitors will mos
   * [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
 
 * [Testing](#testing)
+  * [Manual Testing](#manual-testing)
 
 * [Deployment & Local Development](#deployment--local-development)
   * [Deployment](#deployment)
@@ -235,7 +236,7 @@ Social media icons:
 
 #### Submit Contact Form
 
-I tested the contact form was worked as I wanted. The following steps were taken during testing:
+I tested the contact form was workeing as I wanted. The following steps were taken during testing:
 
 -Press send, with no data input. A 'Please fill in this field' tooltip warning appears on the next form box to enter information. 
 
@@ -273,15 +274,12 @@ I tested the contact form was worked as I wanted. The following steps were taken
   <img src="README.docs/Readme/testing_confirmation.png" width="100" height="50%">
 </p>
 
-- Tested the tooltip warning for an email to be entered correctly by putting in no @ symbol in email box.
+-Tested the tooltip warning for an email to be entered correctly by putting in no @ symbol in email box.
 
 <p align="left">
   <img src="README.docs/Readme/testing_emailwarning.png" width="100" height="50%">
 </p>
 
-#### Submission confirmation page
-
-* The links go to the right page
 
 ### W3C Validator
 
