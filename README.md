@@ -310,6 +310,14 @@ I used lighthouse to test each of the pages for:
 
 Results can be accessed by this [link](https://pagespeed.web.dev/analysis/https-stran90-github-io-ThuyLewisNailsBrowsAndLashes/od76w6bg76?form_factor=desktop)
 
+### Wave
+
+I used wave (web accessibility evaluation tool) in chrome developer tools to test the website accessibility. Scanned website for on-page and technical accessibility issues and errors to bring site in line with recognized accessibility standards, like the Web Content Accessibility Guidelines (WCAG).
+
+<p align="left">
+  <img src="README.docs/Readme/testing_wave.png" width="100" height="50%">
+</p>
+
 ### Bugs
 
 The following issues were raised during my mid project meeting with my mentor:
