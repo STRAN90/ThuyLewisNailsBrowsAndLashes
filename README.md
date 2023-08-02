@@ -14,7 +14,7 @@ The goal of the website is to provide an up-to-date pictures portfolio (creative
 
 The site must meet all the requirements and goals as potential visitors will most likely be comparing other similar local services, so the final website look must stand out and show everything the user would want to see.
 
-**Link to website** [Here](https://stran90.github.io/ThuyLewisNailsBrowsAndLashes).
+**Link to website** [here](https://stran90.github.io/ThuyLewisNailsBrowsAndLashes).
 
 ---
 
@@ -193,7 +193,7 @@ Bootstrap version 4.2.1 - The Framework for the website. Code used for additiona
 
 Google map generator - Was used to import business location.
 
-[Gitpod] (https://gitpod.io/) - Open source developer platform, an IDE running in the Cloud. 
+[Gitpod](https://gitpod.io/) - Open source developer platform, an IDE running in the Cloud. 
 
 [Git](https://git-scm.com/) - Version control tool for tracking changes in code.
 
@@ -210,6 +210,8 @@ Google map generator - Was used to import business location.
 [CSS Validation Service](https://jigsaw.w3.org/css-validator/) - Online tool validates CSS files as CSS level 3 + SVG.
 
 Google Dev Tools - To troubleshoot and test features, solve issues with responsiveness and styling. 
+
+[Tinypng](https://tinypng.com) - Online site to reduce the file size of your WEBP, JPEG and PNG files. 
 
 ## Testing
 
@@ -383,6 +385,6 @@ Media was provided by the business owner.
 ### Acknowledgments
 
 - My mentor Rohit Sharma for his knowledge and helpful advice. 
-- Google search engine for limitless resources about web development.
+- Google search engine for limitless resources about web development. 
 
 
