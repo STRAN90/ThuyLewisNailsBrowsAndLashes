@@ -10,7 +10,7 @@
 
 I have designed the website to look professional as its main focus. It is designed to be fully responsive and accessible on a range of devices, making it easy to navigate for potential and existing customers.
 
-The goal of the website is to provide an up-to-date pictures portfolio (creative nail designs, brow and lash transformations), information about the services it delivers, and also allow an easy way for getting in touch with the business owner.
+The goal of the website is to provide an up-to-date picture portfolio (creative nail designs, brow and lash transformations), information about the services it delivers, and also allow an easy way for getting in touch with the business owner.
 
 The site must meet all the requirements and goals as potential visitors will most likely be comparing other similar local services, so the final website look must stand out and show everything the user would want to see.
 
@@ -59,20 +59,20 @@ The site must meet all the requirements and goals as potential visitors will mos
 #### Target Audience
 
 - A person looking for a qualified and insured beauty technician. 
-- A person looking for someone who specialises in gel, acrylics, nail extentions and design. 
+- A person looking for someone who specialises in gel, acrylics, nail extensions and design. 
 - A person looking to have their lashes tinted or lifted.
 - A person looking to have their eyebrows waxed or tinted.
 
 #### First-time Visitor Goals 
 - As a first time user, I want to see short information about Thuy Lewis, and the services she provides.
-- As a first time user, I want to have an easy access to the all site's content by clicking the correct navigation link.
+- As a first time user, I want to have easy access to the all sites content by clicking the correct navigation link.
 - As a first time user, I want to see portfolio containing high quality pictures showcasing recent work on customers.
 - As a first time user, I want to know about customers reviews to learn about their experience, and make sure that provided services are of high quality and can be trusted. 
-- As a first time user, I want to have an easy access to the social media links such as Instagram, Facebook and E-Mail address.
+- As a first time user, I want to have easy access to the social media links such as Instagram, Facebook and E-Mail address.
 - As a first time user, I want to be able to find information about prices.
 - As a first time user, I want to be able to contact the business owner as I wish through social media, e-mail or a contact form.
 
-#### Returning User Vistor Goals
+#### Returning User Visitor Goals
 - As a returning user, I want to be able to see updates of the owners work and any new products or services available.
 - As a returning user, I want to be able to easily contact the business owner.
 
@@ -101,7 +101,7 @@ The website uses light pastel colours, I wanted to choose colours to reflect the
 
 - [Google Fonts](https://fonts.google.com/)
 
-  - Used 'Roboto': "light 300" font for the website as it great for accessibilty.
+  - Used 'Roboto': "light 300" font for the website as it great for accessibility.
 
 ### Imagery
 
@@ -128,13 +128,13 @@ Wireframes were created for mobile, tablet and desktop.
 
 ### Features
 
-The website is comprised of four pages, each is accessible from the navigation menu (home page, treatments, gallery & contact page). 
+The website is composed of four pages, each is accessible from the navigation menu (home page, treatments, gallery & contact page). 
 
 All pages on the website have:
 
 -A responsive navigation bar at the top which allows the user to navigate through the site. 
 
--A footer which contains social media links to facebook and instagram. Icons were used to keep the footer clean and because they are universally recognisable. 
+-A footer which contains social media links to Facebook and Instagram. Icons were used to keep the footer clean and because they are universally recognisable. 
 
 * Home Page. 
   * Hero Section. 
@@ -158,7 +158,7 @@ All pages on the website have:
   * A number of ways to get in touch with Thuy Lewis, address, email and phone number. 
   * Opening times. 
   * Contact form Section 
-  Form to contact the business owner and map image of loaction of business. The form contains fields for the users name, email address, phone number and personal message they want to send to the business owner. The user submits the form using the submit button. Users must fill in the name, email, and text area fields to be able to submit the form. If they don't a tooltip will guide them to fill in any information they have missed.
+  Form to contact the business owner and map image of location of business. The form contains fields for the users name, email address, phone number and personal message they want to send to the business owner. The user submits the form using the submit button. Users must fill in the name, email, and text area fields to be able to submit the form. If they don't a tooltip will guide them to fill in any information they have missed.
   
 
 ### Future Implementations.
@@ -169,12 +169,12 @@ All pages on the website have:
 
 ### Accessibility 
 
-I have been mindful during coding to ensure the website is as accessable friendly as possible. I have achieved this by:
+I have been mindful during coding to ensure the website is as accessible friendly as possible. I have achieved this by:
 
 * Using semantic HTML.
 * Using descriptive alt attributes on images on the site. 
 * Ensuring there are sufficient colour contrast throughout the site.
-* Using font style with good accessibilty.
+* Using font style with good accessibility.
 
 ---
 
@@ -199,7 +199,7 @@ Google map generator - Was used to import business location.
 
 [GitHub](https://github.com/) - Hosting service for software development and version control using Git, to save and store files for the website. 
 
-[FontAwesome](https://fontawesome.com/) - Icongraphy on the website
+[FontAwesome](https://fontawesome.com/) - Iconography on the website
 
 [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) - Used to audit the site for performance, quality, best practices and SEO.
 
@@ -216,13 +216,13 @@ Google Dev Tools - To troubleshoot and test features, solve issues with responsi
 ## Testing
 
 Testing was ongoing throughout the entire build. I utilised Google Chrome developer tools while building to pinpoint and troubleshoot any issues as I went along.
-Each device has been inspected using Google Chrome developer to ensure each page is fully reponsive on a variety of different screen sizes and devices. I have also physically tested the responsivness of the site on a number of different devices. 
+Each device has been inspected using Google Chrome developer to ensure each page is fully responsive on a variety of different screen sizes and devices. I have also physically tested the responsiveness of the site on a number of different devices. 
 
 ### Manual Testing 
 
 #### Navigation 
 
-Navigation's behaviour checked on every page for every responsive breakpoint (mobile, tablet, desktop, desktop-large):
+Navigation's behaviour checked on every page for every responsive breakpoints (mobile, tablet, desktop, desktop-large):
 
 * Click on the website's logo redirects to index.html.
 * Click on Home link redirects to index.html.
@@ -238,7 +238,7 @@ Social media icons:
 
 #### Submit Contact Form
 
-I tested the contact form was workeing as I wanted. The following steps were taken during testing:
+I tested the contact form was working as I wanted. The following steps were taken during testing:
 
 -Press send, with no data input. A 'Please fill in this field' tooltip warning appears on the next form box to enter information. 
 
@@ -264,10 +264,10 @@ I tested the contact form was workeing as I wanted. The following steps were tak
   <img src="README.docs/Readme/testing_phone.png" width="100" height="50%">
 </p>
 
--Tested pattern="[0-9]{11} atrribute for input tel. Entered 4 digits and pressed send, tooltip warning requesting to match correct format. Entered 10 digits and pressed send, tooltip warning requesting correct format. Entered 12 digits and pressed send, tooltip warning requesting correct format.
+-Tested pattern="[0-9]{11} attribute for input tel. Entered 4 digits and pressed send, tooltip warning requesting to match correct format. Entered 10 digits and pressed send, tooltip warning requesting correct format. Entered 12 digits and pressed send, tooltip warning requesting correct format.
 
 <p align="left">
-  <img src="README.docs/Readme/tel_pattern.png" width="100" height="50%">
+  <img src="README.docs/Readme/tel_pattern.png" width="150" height="70%">
 </p>
 
 -Fill phone number box with correct data, then press send. A 'Please fill in this field' tooltip warning appears on the next form box to enter information.
@@ -308,7 +308,7 @@ I used lighthouse to test each of the pages for:
 - Best practices - how does the site conform to industry best practices.
 - SEO - search engine optimization. Is the site optimized for search engine result rankings.
 
-Results can be accessed by this [link](https://pagespeed.web.dev/analysis/https-stran90-github-io-ThuyLewisNailsBrowsAndLashes/od76w6bg76?form_factor=desktop)
+Results can be accessed by this [link](https://pagespeed.web.dev/analysis/https-stran90-github-io-ThuyLewisNailsBrowsAndLashes/wwthi9dtsw?form_factor=mobile)
 
 ### Wave
 
@@ -321,7 +321,7 @@ I used wave (web accessibility evaluation tool) in chrome developer tools to tes
 ### Bugs
 
 The following issues were raised during my mid project meeting with my mentor:
-- Dupicate contact form on homepage and contact page.
+- Duplicate contact form on homepage and contact page.
 - Be consistent with choice of colour code. 
 
 ### Solved Bugs
@@ -394,5 +394,3 @@ Media was provided by the business owner.
 
 - My mentor Rohit Sharma for his knowledge and helpful advice. 
 - Google search engine for limitless resources about web development. 
-
-
