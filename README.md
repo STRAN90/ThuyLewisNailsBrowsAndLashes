@@ -293,6 +293,17 @@ The W3C validator was used to validate the HTML on all pages of the website. It 
 * [Contact Page HTML](README.docs/Readme/html_treatments.png)
 * [W3C CSS Validator](README.docs/Readme/w3c_css_validator.png)
 
+### Lighthouse
+
+I used lighthouse to test each of the pages for:
+
+- Performance - how the page performs whilst loading.
+- Accessibility - how accessible is the site for all users and how can it be improved.
+- Best practices - how does the site conform to industry best practices.
+- SEO - search engine optimization. Is the site optimized for search engine result rankings.
+
+Results can be accessed by this [link](https://pagespeed.web.dev/analysis/https-stran90-github-io-ThuyLewisNailsBrowsAndLashes/od76w6bg76?form_factor=desktop)
+
 ### Bugs
 
 The following issues were raised during my mid project meeting with my mentor:
