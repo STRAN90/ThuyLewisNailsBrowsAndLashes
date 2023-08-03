@@ -332,7 +332,7 @@ I used lighthouse to test each of the pages for:
 - Best practices - how does the site conform to industry best practices.
 - SEO - search engine optimization. Is the site optimized for search engine result rankings.
 
-Results can be accessed by this [link](https://pagespeed.web.dev/analysis/https-stran90-github-io-ThuyLewisNailsBrowsAndLashes/pvzas4fdj3?form_factor=mobile)
+Results can be accessed by this [link](https://pagespeed.web.dev/analysis/https-stran90-github-io-ThuyLewisNailsBrowsAndLashes/xpjvqfahm8?form_factor=mobile)
 
 ### Wave
 
