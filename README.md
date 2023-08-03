@@ -105,7 +105,7 @@ The website uses light pastel colours, I wanted to choose colours to reflect the
 
 ### Imagery
 
-Images provided by business owner Thuy Lewis.
+Images provided by business owner Thuy Lewis and istockphoto.com. 
 
 ### Wireframes
 Home Page Wireframe:  
@@ -353,6 +353,8 @@ Fix: Removing width from img element in index.html and setting CSS rule of width
 
 ### Deployment
 
+#### Gitpod
+
 For website deployment I have decided to go with [Gitpod](https://gitpod.io) because it provides fast website load speeds, simple configuration setup and very easy deployment process.
 
 - From the dashboard create new "Project",
@@ -362,6 +364,17 @@ For website deployment I have decided to go with [Gitpod](https://gitpod.io) bec
 - Type "python3 -m http.server" into terminal 
 - Select 'Open in new browser' when pop up appears. 
 - Website deployed!
+
+#### GitHub Pages
+
+* Log into GitHub and locate the repository.
+* At the top locate the settings option
+* Scroll towards the bottom of the page and locate GitHub Pages
+* Click on the link "Check it out here!"
+* Under 'Source' dropdown, click 'Master' from the options.
+* Click the save button.
+* The site is now published, it may not be available immediately.
+* The site URL is visible on the green bar under the "Github Pages".
 
 ### Local Development 
 
@@ -393,7 +406,7 @@ Content for this project was written by Sonia Majewska.
 
 ###  Media
 
-Media was provided by the business owner. 
+Media was provided by the business owner and istockphoto.com. 
 
 ### Acknowledgments
 
