@@ -225,10 +225,34 @@ Each device has been inspected using Google Chrome developer to ensure each page
 Navigation's behaviour checked on every page for every responsive breakpoints (mobile, tablet, desktop, desktop-large):
 
 * Click on the website's logo redirects to index.html.
-* Click on Home link redirects to index.html.
-* Click on Treatment link redirects to treatments.html.
+
+* Click on Home link redirects to index.html.  
+Homepage shows navigation bar, hero image, about section, testimonials, list of treatments, google maps and footer.
+
+<p align="left">
+  <img src="README.docs/Readme/homepage_screenshot.jpg" width="100" height="50%">
+</p>
+
+* Click on Treatment link redirects to treatments.html.  
+Treatment page shows navigation bar, hero image, pricelist and footer. 
+
+<p align="left">
+  <img src="README.docs/Readme/treatment_screenshot.jpg" width="100" height="50%">
+</p>
+
 * Click on Gallery link redirects to gallery.html.
+Gallery page shows navigation bar, images of Thuy Lewis's portfolio and footer. 
+
+<p align="left">
+  <img src="README.docs/Readme/gallery_screenshot.jpg" width="100" height="50%">
+</p>
+
 * Click on Contact link redirects to contact.html.
+Contact page shows navigation bar, hero image, contact details, contact form and footer.
+
+<p align="left">
+  <img src="README.docs/Readme/contact_screenshot.jpg" width="100" height="50%">
+</p>
 
 Social media icons:
 
