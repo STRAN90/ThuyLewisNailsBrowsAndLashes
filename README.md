@@ -1,7 +1,7 @@
 # Thuy Lewis Nails Brows & Lashes
 
 <p align="center">
-  <img src="README.docs/Readme/amiresponsive.png" width="600" height="100%">
+  <img src="README.docs/readme/amiresponsive.png" width="600" height="100%">
 </p>
 
 ## Project Overview 
@@ -230,28 +230,28 @@ Navigation's behaviour checked on every page for every responsive breakpoints (m
 Homepage shows navigation bar, hero image, about section, testimonials, list of treatments, google maps and footer.
 
 <p align="left">
-  <img src="README.docs/Readme/homepage_screenshot.jpg" width="100" height="50%">
+  <img src="README.docs/readme/homepage_screenshot.jpg" width="100" height="50%">
 </p>
 
 * Click on Treatment link redirects to treatments.html.  
 Treatment page shows navigation bar, hero image, pricelist and footer. 
 
 <p align="left">
-  <img src="README.docs/Readme/treatment_screenshot.jpg" width="100" height="50%">
+  <img src="README.docs/readme/treatment_screenshot.jpg" width="100" height="50%">
 </p>
 
 * Click on Gallery link redirects to gallery.html.
 Gallery page shows navigation bar, images of Thuy Lewis's portfolio and footer. 
 
 <p align="left">
-  <img src="README.docs/Readme/gallery_screenshot.jpg" width="100" height="50%">
+  <img src="README.docs/readme/gallery_screenshot.jpg" width="100" height="50%">
 </p>
 
 * Click on Contact link redirects to contact.html.
 Contact page shows navigation bar, hero image, contact details, contact form and footer.
 
 <p align="left">
-  <img src="README.docs/Readme/contact_screenshot.jpg" width="100" height="50%">
+  <img src="README.docs/readme/contact_screenshot.jpg" width="100" height="50%">
 </p>
 
 Social media icons:
@@ -267,49 +267,49 @@ I tested the contact form was working as I wanted. The following steps were take
 -Press send, with no data input. A 'Please fill in this field' tooltip warning appears on the next form box to enter information. 
 
 <p align="left">
-  <img src="README.docs/Readme/testing_name.png" width="100" height="50%">
+  <img src="README.docs/readme/testing_name.png" width="100" height="50%">
 </p>
 
 -Fill name box with data, then press send. A 'Please fill in this field' tooltip warning appears on the next form box to enter information. 
 
 <p align="left">
-  <img src="README.docs/Readme/testing_surname.png" width="100" height="50%">
+  <img src="README.docs/readme/testing_surname.png" width="100" height="50%">
 </p>
 
 -Fill surname box with data, then press send. A 'Please fill in this field' tooltip warning appears on the next form box to enter information.
 
 <p align="left">
-  <img src="README.docs/Readme/testing_email.png" width="100" height="50%">
+  <img src="README.docs/readme/testing_email.png" width="100" height="50%">
 </p>
 
 -Fill email box with data, then press send. A 'Please fill in this field' tooltip warning appears on the next form box to enter information.
 
 <p align="left">
-  <img src="README.docs/Readme/testing_phone.png" width="100" height="50%">
+  <img src="README.docs/readme/testing_phone.png" width="100" height="50%">
 </p>
 
 -Tested pattern="[0-9]{11} attribute for input tel. Entered 4 digits and pressed send, tooltip warning requesting to match correct format. Entered 10 digits and pressed send, tooltip warning requesting correct format. Entered 12 digits and pressed send, tooltip warning requesting correct format.
 
 <p align="left">
-  <img src="README.docs/Readme/tel_pattern.png" width="150" height="70%">
+  <img src="README.docs/readme/tel_pattern.png" width="150" height="70%">
 </p>
 
 -Fill phone number box with correct data, then press send. A 'Please fill in this field' tooltip warning appears on the next form box to enter information.
 
 <p align="left">
-  <img src="README.docs/Readme/testing_message.png" width="100" height="50%">
+  <img src="README.docs/readme/testing_message.png" width="100" height="50%">
 </p>
 
 -Fill message box with data, then press send. Redirected to confirmation page that message has been sent.
 
 <p align="left">
-  <img src="README.docs/Readme/testing_confirmation.png" width="100" height="50%">
+  <img src="README.docs/readme/testing_confirmation.png" width="100" height="50%">
 </p>
 
 -Tested the tooltip warning for an email to be entered correctly by putting in no @ symbol in email box.
 
 <p align="left">
-  <img src="README.docs/Readme/testing_emailwarning.png" width="100" height="50%">
+  <img src="README.docs/readme/testing_emailwarning.png" width="100" height="50%">
 </p>
 
 
@@ -317,11 +317,11 @@ I tested the contact form was working as I wanted. The following steps were take
 
 The W3C validator was used to validate the HTML on all pages of the website. It was also used to validate CSS in the style.css file.
 
-* [Index Page HTML](README.docs/Readme/html_index.png)
-* [Treatments Page HTML](README.docs/Readme/html_treatments.png)
-* [Gallery Page HTML](README.docs/Readme/html_treatments.png)
-* [Contact Page HTML](README.docs/Readme/html_treatments.png)
-* [W3C CSS Validator](README.docs/Readme/w3c_css_validator.png)
+* [Index Page HTML](README.docs/readme/html_index.png)
+* [Treatments Page HTML](README.docs/readme/html_treatments.png)
+* [Gallery Page HTML](README.docs/readme/html_treatments.png)
+* [Contact Page HTML](README.docs/readme/html_treatments.png)
+* [W3C CSS Validator](README.docs/readme/w3c_css_validator.png)
 
 ### Lighthouse
 
@@ -339,7 +339,7 @@ Results can be accessed by this [link](https://pagespeed.web.dev/analysis/https-
 I used wave (web accessibility evaluation tool) in chrome developer tools to test the website accessibility. Scanned website for on-page and technical accessibility issues and errors to bring site in line with recognized accessibility standards, like the Web Content Accessibility Guidelines (WCAG).
 
 <p align="left">
-  <img src="README.docs/Readme/testing_wave.png" width="100" height="50%">
+  <img src="README.docs/readme/testing_wave.png" width="100" height="50%">
 </p>
 
 ### Bugs
