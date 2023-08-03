@@ -5,6 +5,7 @@ body {
   color: #212529b6;
   font-size: larger;
   background-color: #f6f9faab;
+  margin: revert;
 }
 
 h1 {
@@ -20,6 +21,14 @@ h2 {
 
 h3 {
   text-align: center;
+}
+
+.row {
+  margin: 0;
+}
+
+.data {
+  margin-left: -15px;
 }
 
 /* NAVIGATION BAR */

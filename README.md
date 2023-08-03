@@ -308,7 +308,7 @@ I used lighthouse to test each of the pages for:
 - Best practices - how does the site conform to industry best practices.
 - SEO - search engine optimization. Is the site optimized for search engine result rankings.
 
-Results can be accessed by this [link](https://pagespeed.web.dev/analysis/https-stran90-github-io-ThuyLewisNailsBrowsAndLashes/wwthi9dtsw?form_factor=mobile)
+Results can be accessed by this [link](https://pagespeed.web.dev/analysis/https-stran90-github-io-ThuyLewisNailsBrowsAndLashes/pvzas4fdj3?form_factor=mobile)
 
 ### Wave
 
@@ -321,8 +321,13 @@ I used wave (web accessibility evaluation tool) in chrome developer tools to tes
 ### Bugs
 
 The following issues were raised during my mid project meeting with my mentor:
-- Duplicate contact form on homepage and contact page.
-- Be consistent with choice of colour code. 
+- Duplicate contact form on homepage and contact page.  
+
+I removed this as if future bugs were to occur in this part of the code, there is a more likely chance of forgetting the dupicate code of the other html page and not fixing it. Saves time and future headwork. 
+
+- Be consistent with choice of colour code.  
+
+HEX was chosen colour code as it was easier and traditional to code and included the alpha parameter.
 
 ### Solved Bugs
 
